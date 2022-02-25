@@ -1,0 +1,847 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestants plea for a Socinian justifying his doctrine from being opposite to Scripture or church authority, and him from being guilty of heresie, or schism : in five conferences.</title>
+            <author>R. H., 1609-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 136 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66969</idno>
+            <idno type="STC">Wing W3451</idno>
+            <idno type="STC">ESTC R9786</idno>
+            <idno type="EEBO-CITATION">12590314</idno>
+            <idno type="OCLC">ocm 12590314</idno>
+            <idno type="VID">63884</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63884)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 971:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestants plea for a Socinian justifying his doctrine from being opposite to Scripture or church authority, and him from being guilty of heresie, or schism : in five conferences.</title>
+                  <author>R. H., 1609-1678.</author>
+               </titleStmt>
+               <extent>[2], 45 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Abraham Woodhead, who is in actuality R.H. cf. NUC pre-1956.</note>
+                  <note>Errata: p. 45.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Socinianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63884:1"/>
+            <p>THE <hi>Proteſtants Plea</hi> FOR A SOCINIAN: Juſtifying His Doctrine from being oppoſite to SCRIPTURE OR CHURCH-AUTHORITY; And Him from being Guilty of HERESIE, or SCHISM. In Five Conferences.</p>
+            <p>
+               <hi>Publiſh'd with Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent Majeſty for His Houſhold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="conference">
+            <pb facs="tcp:63884:2"/>
+            <pb n="1" facs="tcp:63884:2"/>
+            <head>THE Firſt Conference.</head>
+            <head type="sub">The <hi>Socinian's</hi> Proteſtant-Plea for his not holding any thing contrary to the <hi>Holy Scriptures.</hi>
+            </head>
+            <argument>
+               <p n="1">
+                  <hi>1.</hi> THat he believes all contained in the Scriptures to be God's Word; and therefore implicitly believes thoſe truths, againſt which he errs. §. <hi>2.</hi>
+               </p>
+               <p n="2">
+                  <hi>2.</hi> That alſo he uſeth his beſt endeavor to find the true ſenſe of Scrip<g ref="char:EOLhyphen"/>tures: and, that more is not required of him from God for his Faith or Salvation, than doing his beſt endeavour for attaining it. §. <hi>3.</hi>
+               </p>
+               <p n="3">
+                  <hi>3.</hi> That, as for an explicite Faith required of ſome points neceſſary, he is ſufficiently aſſured, that this point concerning the Son's Conſubſtan<g ref="char:EOLhyphen"/>tiality with the Father, as to the affirmative, is not ſo from the Pro<g ref="char:EOLhyphen"/>teſtant's affirming all neceſſaries to be clear in Scripture, even to the unlearned; which this, in the affirmative, is not to him. §. <hi>4.</hi>
+               </p>
+               <p n="4">
+                  <hi>4.</hi> That ſeveral expreſs, and plain Scriptures do perſwade him, that the negative (if either) is neceſſary to be believed; and that from the clearneſs of Scriptures, he hath as much certainty in this point, as Pro<g ref="char:EOLhyphen"/>teſtants can have from them in ſome other, held againſt the common expreſſions of the former times of the Church. §. <hi>6, 8.</hi>
+               </p>
+               <p n="5">
+                  <hi>5.</hi> That, for the right underſtanding of Scriptures, either he may be certain of a juſt induſtry uſed; or elſe, that Proteſtants, in aſſerting that the Scriptures are plain only to the induſtrious; and then, that none are certain, when they have uſed a juſt induſtry, thus muſt ſtill remain alſo uncertain in their Faith; as not knowing, whether ſome defect in this their induſtry cauſeth them not to miſtake the Scriptures.</p>
+               <p n="6">
+                  <hi>6.</hi> Laſtly; That none have uſed more diligence in the ſearch of Scripture, than the <hi>Socinians,</hi> as appears by their Writings, addicting them<g ref="char:EOLhyphen"/>ſelves wholly to this Word of God, and not ſuffering themſelves to be any way byaſs'd by any other humane, either modern, or ancient Au<g ref="char:EOLhyphen"/>thority. §. <hi>9.</hi>
+               </p>
+            </argument>
+            <p>
+               <pb n="2" facs="tcp:63884:3"/>Digreſs. Where, <hi>The</hi> Proteſtant's, <hi>and</hi> Socinian's <hi>pretended Cer<g ref="char:EOLhyphen"/>tainty of the ſenſe of Scripture apprehended by them, and made the ground of their Faith againſt the ſenſe of the ſame Scripture declared by the major part of the Church is examined.</hi> §. 9.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>1</label> TO ſhew the invalidity of ſuch a Guide as Proteſtants have framed to themſelves for preſerving the true Faith, and ſuppreſſing Hereſies, hath for ſeveral years been the Subject of divers Modern Pens: But, becauſe Inſtances and Examples, ſeem to ſome, more weighty and convincing, it is thought fit (the more to awaken, and the better to ſatisfie him) here to let the Reader ſee what Apology a <hi>Socinian</hi> (who tho' denying the Trinity, and our Saviors Deity, yet, moſt zealouſly urges Scripture, and its plainneſs in all neceſſaries, as if it juſtified his own Errors; or that he Er<g ref="char:EOLhyphen"/>red only in matters not neceſſary) upon the Proteſtant Prin<g ref="char:EOLhyphen"/>ciples may return for himſelf to a Proteſtant endeavouring to reduce him to the true Faith and the <hi>Nicene</hi> Creed; and uſing any of theſe five Motives thereto, <hi>viz.</hi> The Teſtimony of 1. Scripture. 2. Catholic-Church-Authority. 3. Councils, with the Danger and Guilt of 4. Hereſie, and 5. Schiſm. Not in<g ref="char:EOLhyphen"/>tending hereby to equal all Proteſtant Opinions with the <hi>Soci<g ref="char:EOLhyphen"/>nian;</hi> but inferring that theſe Pleas as relating to theſe Motives will as rationally juſtifie the <hi>Socinian</hi> as the Proteſtant.</p>
+            <p>For, ſuppoſe a Proteſtant, firſt, concerning the <hi>Scriptures,</hi> queſtion a <hi>Socinian</hi> in this manner.</p>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Why do you, to the great danger of your ſoul, and ſal<g ref="char:EOLhyphen"/>vation, not believe, <hi>God the Son to be of one, and the ſame eſſence, and ſubſtance with God the Father,</hi> it being ſo principal an Article of the <hi>Chriſtian</hi> Faith, delivered in the <hi>Holy Scriptures?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>To give you a ſatisfactory account of this matter. I do believe, with other Chriſtians, that the Scriptures are the Word of God; and, with other Proteſtants, that they are a perfect <hi>Rule</hi> of my faith.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>But, this ſecures you not, unleſs you believe according to this <hi>Rule;</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>2</label> which in this point, you do not.</p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>However I believe in this point; truly, or falſly; I am ſecure that my Faith is entire, as to all <hi>neceſſary</hi> points of Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>How ſo?</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:63884:3"/>
+               <speaker>Soc.</speaker>
+               <p>Becauſe, as M. <hi>Chillingworth</hi> ſaith<note n="†" place="margin">
+                     <hi>p.</hi> 23, 159, 367.</note> — <hi>He that believes all that is in the</hi> Bible, <hi>all that is in the</hi> Scriptures <hi>(as I do) believes all that is</hi> neceſſary <hi>there.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>This muſt needs be true: but mean while, if there be either ſome part of Scripture not known at all by you; or the true ſenſe of ſome part of that you know (for, <hi>the Scripture,</hi> as that Author notes<note n="†" place="margin">Chill. p. <hi>87.</hi>
+                  </note>, <hi>is not ſo much the words, as the ſenſe</hi>) be miſta<g ref="char:EOLhyphen"/>ken by you, how can you ſay, you believe all the Scriptures? For, when you ſay, you believe all the Scripture, you mean only this: that you believe, that, whatſoever is the <hi>true ſenſe</hi> thereof, that is <hi>God's Word;</hi> and moſt certainly true: which be<g ref="char:EOLhyphen"/>lief of yours doth very well conſiſt with your not believing, or alſo your believing the contrary to the <hi>true ſenſe</hi> thereof: and then you, not believing the true ſenſe of ſome part of it at leaſt, may alſo not believe the true ſenſe of ſomething <hi>neceſſary</hi> there; which is quite contrary to your concluſion here.</p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>3</label>
+                  <note n="†" place="margin">Chill. p. <hi>18.</hi>
+                  </note>—<hi>I believe, that that ſenſe of them which God intendeth whatſoever it is, is certainly true; And thus I believe implicitely even thoſe very truths, againſt which I err.</hi> Next:<note n="†" place="margin">Chill. Ib.</note> —<hi>I do my</hi> beſt endeavour <hi>to believe Scripture in the true ſenſe thereof. [By my beſt endeavour I mean</hi>
+                  <note n="†" place="margin">Chill. p. <hi>19.</hi>
+                  </note>, <hi>ſuch a meaſure of induſtry, as humane prudence, and ordinary diſcretion (my abilities, and opportunities, my diſtractions, and hindrances, and all other things conſidered) ſhall adviſe me unto in a mat<g ref="char:EOLhyphen"/>ter of ſuch conſequence.</hi> Of <hi>uſing</hi> which <hi>endeavour</hi> alſo, I con<g ref="char:EOLhyphen"/>ceive, I may be ſufficiently certain: [for otherwiſe, I can have no certainty of any thing I believe from this compleat Rule of Scriptures; this due endeavour being the condition, which Pro<g ref="char:EOLhyphen"/>teſtants require; that I ſhall not be, as to all neceſſaries, deceived in the ſenſe of Scripture.] Now, being conſcious to my ſelf of ſuch a right endeavour uſed:<note n="†" place="margin">Chillingw. p. <hi>102.</hi>
+                  </note>— <hi>For me, to believe, further, this or that to be the true ſenſe of ſome Scriptures; or to believe the true ſenſe of them, and to avoid the falſe, is not neceſſary, either to my faith or ſalvation. For, if God would have had his meaning in theſe places certainly known, how could it ſtand with his wiſ<g ref="char:EOLhyphen"/>dom, to be ſo wanting to his own will and end, as to ſpeak obſcurely? Or how can it conſiſt with his juſtice to require of men to know certainly the meaning of thoſe words which he himſelf hath not revealed?</hi>
+                  <note n="†" place="margin">
+                     <hi>Chill. p.</hi> 18, 92.</note> —<hi>For my error or ignorance in what is not plain<g ref="char:EOLhyphen"/>ly contained in Scripture, after my beſt endeavour uſed; to ſay that God will damn me for ſuch errors, who am a lover of him, and
+<pb n="4" facs="tcp:63884:4"/>lover of truth, is to rob man of his comfort, and God of his goodneſs; is to make man deſperate, and God a Tyrant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>4</label> But this defence will no way ſerve your turn for all points of Faith revealed in Scripture: for you ought to have of ſome points an <hi>expreſs</hi> and <hi>explicite</hi> Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>Of what points?</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>Of all thoſe that are <hi>fundamental</hi> and <hi>neceſſary.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>Then if this point of <hi>Conſubſtantiality of the Son with God the Father</hi> be none of the <hi>Fundamentals,</hi> and neceſſaries, wherein I am to have a right and an explicite Faith, the account I have given you already, I hope, is ſatisfactory.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>5</label> But next: I am ſecure, that this point, which is the ſubject of our diſcourſe, at leaſt in the affirmative thereof, is no fun<g ref="char:EOLhyphen"/>damental; for, according to the Proteſtant principles<note n="†" place="margin">Chill. p. <hi>92.</hi>
+                  </note> —<hi>The Scripture is a Rule, as ſufficiently perfect, ſo ſufficiently intelligible in things neceſſary, to all that have underſtand<g ref="char:EOLhyphen"/>ing; whether learned, or unlearned. Neither is any thing neceſſary to be believed, but what is plainly revealed: for to ſay, that when a place of Scripture by reaſon of ambigu<g ref="char:EOLhyphen"/>ous terms lies indifferent between divers ſenſes, whereof one is true, and the other falſe, that God obligeth men under pain of dam<g ref="char:EOLhyphen"/>nation not to miſtake through error, and humane frailty, is to make God a Tyrant, and to ſay that he requires of us certainty to at<g ref="char:EOLhyphen"/>tain that end, for the attaining whereof we have no certain means. In fine,</hi>
+                  <note n="†" place="margin">Chill. p. <hi>59</hi>
+                  </note> 
+                  <hi>where Scriptures are plain, as they are in neceſſa<g ref="char:EOLhyphen"/>ries, they need no infallible Interpreter, no further explanation</hi> [to me]; <hi>and where they are not plain, there if I, uſing diligence to find the truth, do yet miſs of it, and fall into Error, there is no danger in it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>True. Such neceſſary points are clear to the unlearned, uſing a due Induſtry, void of a contrary intereſt, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>And in ſuch induſtry I may be aſſured, I have not been deficient, having beſtowed much ſtudy on this matter, read the Controverſie on both ſides; compared Texts, <hi>&amp;c.</hi> (as alſo appears in the diligent writings of others of my perſwaſion); and after all this, the ſenſe of Scripture alſo, which I embrace, (a ſenſe, you know, decried and perſecuted by moſt Chriſtians) is very contrary to all my ſecular relations, intereſt, and profit.</p>
+               <p>Now, after all this ſearch I have uſed, I am ſo far ſatiſ<g ref="char:EOLhyphen"/>fied,<label type="milestone">
+                     <seg type="milestoneunit">§. </seg>6</label> that this point, on the affirmative ſide, is not clear, and
+<pb n="5" facs="tcp:63884:4"/>evident in Scripture (and therefore no Fundamental) that I can produce moſt clear and evident places out of the Scriptures (if a man can be certain of any thing from the perſpicuity of its Expreſſions) that the contrary of it is ſo.</p>
+               <p>[See <hi>Crellius</hi> in the Preface to his Book <hi>De uno Deo Patre,</hi>— <hi>Haec de uno Deo Patre ſententia</hi> plurimis, <hi>ac</hi> clariſſimis <hi>ſacrarum-literarum teſtimoniis nititur</hi>—Evidens <hi>ſententiae veritas, &amp; ratio<g ref="char:EOLhyphen"/>num</hi> firmiſſimarum <hi>è ſacris literis ſpontè ſubnaſcentium</hi> multitudo, <hi>ingenii noſtri tenuitatem ſublevat, &amp;c.</hi>—<hi>Argumenta, quae ex ſa<g ref="char:EOLhyphen"/>cris literis deprompſimus, per ſe</hi> plana <hi>ſunt, ac</hi> facilio <hi>adeo quidem, ut eorum vim deolinare aliâ ratione non poſſint adverſarii, quam ut â verborum ſimplicitate tum ipſi deflectant, tum nos abducere conentur.</hi> And ſee the particular places of Scripture which they urge (where, as to the expreſſion, and other Texts being laid aſide, that ſeems to be ſaid, as it were <hi>totidem verbis,</hi> which the Soci<g ref="char:EOLhyphen"/>mans maintain). <hi>Job.</hi> 14.28.17.3. <hi>Ep.</hi> 1 <hi>Cor.</hi> 8.6.—<hi>Col.</hi> 1.15. <hi>&amp; Rev.</hi> 3.14. I ſet not down this to countenance their Cauſe, but to ſhew their Confidence.]</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>7</label> O ſtrange Preſumption! And is not your judgment, then, liable to miſtake in the true ſenſe of theſe Scriptures, be<g ref="char:EOLhyphen"/>cauſe you ſtrongly perſuade your ſelf, they are moſt evident on your ſide?</p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>'Tis true, that I may <hi>miſtake</hi> in the ſenſe of <hi>ſome</hi> Scrip<g ref="char:EOLhyphen"/>ture; but it follows not from hence, that I can be <hi>certain</hi> of the ſenſe of <hi>no</hi> Scriptures. To anſwer you in the words of Mr. <hi>Chillingworth</hi>
+                  <note n="†" place="margin">Chillingw. p. <hi>111.</hi>
+                  </note> — <hi>Tho' I pretend not to certain means in interpreting all Scripture, particularly ſuch places as are obſcure and ambiguous; yet this methinks ſhould be no im<g ref="char:EOLhyphen"/>pediment, but that we may have certain means of not er<g ref="char:EOLhyphen"/>ring in, and about the ſenſe of thoſe places which are ſo plain and clear, that they need no Interpreters; and in ſuch this my Faith is contained. If you ask me, how I can be ſure, that I know the true meaning of theſe places? I ask you again; Can you be ſure you underſtand what I, or any man elſe ſaith; They that heard our Saviour and the Apo<g ref="char:EOLhyphen"/>ſtles Preach, can they have ſufficient aſſurance that they un<g ref="char:EOLhyphen"/>derſtood at any time what they would have them do? If not, to what end did they hear them? If they could, why may not I be as well aſſured, that I underſtand ſufficiently, what I con<g ref="char:EOLhyphen"/>ceive plain in their Writings?</hi> Again; I pray tell me, whether do you certainly know the ſenſe of theſe Scriptures, for the evidence of which you ſeparated from the Church that was before <hi>Luther,</hi>
+                  <pb n="6" facs="tcp:63884:5"/>requiring conformity to the contrary Doctrines, as a condition of her Communion? <hi>If you do, then give us leave to have the ſame means, and the ſame abilities to know other plain places, which you have to know theſe. For if all the Scripture be obſcure, how can you know the ſenſe of theſe places? If ſome places of it be plain, why ſhould I ſtay here?</hi>—<note n="†" place="margin">Ib. p. <hi>112.</hi>
+                  </note> 
+                  <hi>If you ask, ſeeing I may poſſibly err, how can I be aſſured I do not? I ask you again, ſeeing your eye<g ref="char:EOLhyphen"/>ſight may deceive you, how can you be ſure you ſee the Sun, when you do ſee it?</hi>
+                  <note n="†" place="margin">Ib. p. <hi>117.</hi>
+                  </note> 
+                  <hi>A Judge may poſſibly err in Judgment, can he therefore never have aſſurance that he hath judged right<g ref="char:EOLhyphen"/>ly? a Traveller may poſſibly miſtake his way; muſt I therefore be doubtful whether I am in the right way from my Hall to my Chamber? Or can our</hi> London <hi>Carrier have no certainty in the middle of the day, when he is ſober, and in his wits, that he is in his way to</hi> London?<note n="†" place="margin">Ib. p. <hi>112.</hi>
+                  </note>—<hi>This I am certain of, that God will not re<g ref="char:EOLhyphen"/>quire of me a certainly unerring belief, unleſs he had given me a certain means to avoid error, and if I uſe thoſe which I have, will never require of me, that I uſe that which I have not</hi>
+                  <note n="†" place="margin">
+                     <hi>See alſo Chill. p.</hi> 140, 366, 367. Sect. 8.</note>. —This is Mr. <hi>Chilling<g ref="char:EOLhyphen"/>worth</hi>'s ſolid Plea againſt the Papiſt's grand Objection, for the proving an uncertainty in the Proteſtant's Faith upon any their pretence of <hi>evident</hi> Scripture.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>But the Scriptures, which you urge againſt <hi>the Son's be<g ref="char:EOLhyphen"/>ing the ſame one only God with God the Father,</hi> carry not the ſame evidence and clearneſs, as thoſe Scriptures do, whereon Prote<g ref="char:EOLhyphen"/>ſtants build the certainty of their Faith againſt the Papiſts, or againſt the common Church-Doctrines that were before <hi>Luther.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>That ſay the Papiſts of your plain Scriptures, which you of mine: I pray, what can be ſaid more plain, or in what point, in your Opinion, more fundamental (wherein we con<g ref="char:EOLhyphen"/>tend Scripture is moſt clear, even to the unlearned), than this, in <hi>Joh.</hi> 17.3. — <hi>Ut cognoſcant te</hi> [Pater] <hi>ſolum verum Deum; &amp;, quem miſiſti, Jeſum Chriſtum</hi>— And, 1 <hi>Cor.</hi> 8.6. <hi>Unus Deus, Pater; &amp; unus Dominus, Jeſus.</hi> And, <hi>Eph.</hi> 4. <hi>ver.</hi> 5. <hi>Unus eſt Dominus,</hi> [i. e. <hi>Jeſus;</hi>] and then, <hi>ver.</hi> 6. <hi>Unus eſt Deus, &amp; Pater omnium</hi>— And, <hi>Joh.</hi> 14.1. <hi>Creditis in Deum, &amp; in me credite</hi>— And <hi>v.</hi> 28. <hi>Pater meus major me eſt.</hi> I ſay, what more clear for proving the Father his being the <hi>true, moſt high</hi> God, and excluding the other Perſons [the <hi>Son,</hi> or the <hi>Holy Ghoſt</hi>] from being the very ſame God?</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:63884:5"/>
+               <speaker>Prot.</speaker>
+               <p>And 1. what more clear, on the other ſide, than theſe Texts, <hi>Rom.</hi> 9.5. <hi>Of whom, as concerning the fleſh, Chriſt came, who is over all, God bleſſed for ever</hi>— And, <hi>Tit.</hi> 2.3. <hi>The glorious appearing of the great God, and our Saviour Jeſus Chriſt.</hi> And<note n="†" place="margin">1 <hi>Joh.</hi> 5.20.</note>—<hi>we are in him that is true, even in his Son Jeſus Chriſt. This is the true God and eternal life,</hi> ſpoken by St. <hi>John,</hi> the great vindicator, againſt <hi>Ebion, Cerinthus, Carpocrates</hi> and other, in his time, op<g ref="char:EOLhyphen"/>poſers of our Lord's Divinity<note n="†" place="margin">S. Hieron. de viris il<g ref="char:EOLhyphen"/>luſt.</note>—And <hi>Apoc.</hi> 1.8. compared with 1.17.—<hi>I am</hi> Alpha <hi>and</hi> Omega, <hi>the beginning and the ending, which is, and which was, and which is to come, the Al<g ref="char:EOLhyphen"/>mighty?</hi> I ſay, what more clear than theſe Texts, for ſhewing the <hi>true Deity</hi> of Chriſt? 2. And then, how many other clear Texts are there, aſſerting the <hi>Eternity</hi> of our Lord; that he is nothing made or created, but pre-exiſtent before the conſtitu<g ref="char:EOLhyphen"/>tion of the World; equal with God; and that Heaven, and Earth, and all things were made by him, that were made; and that he deſcended from Heaven from his Father, when he took our nature upon him? See <hi>Joh.</hi> 1.1. &amp;c.— 3.13. <hi>Heb</hi> 1.2, 3, 10 &amp;c.—<hi>Joh.</hi> 17.5, 24.— <hi>Phil.</hi> 2.6. —<hi>Joh.</hi> 6.38. — 16.28.— 1. <hi>Tim.</hi> 3.16.—<hi>Heb.</hi> 2.14. And 3. then, his <hi>Deity</hi> and <hi>Eternity</hi> thus cleared, his Deity can be no other, than, in the total eſſence thereof, numerically the ſame with that of God the Father. For, thoſe of your own Sect, together with the whole Chri<g ref="char:EOLhyphen"/>ſtian world, do acknowledge, 1. That there is but one numerical moſt high God, an inſeparable attribute of whom is his Crea<g ref="char:EOLhyphen"/>ting of the world, and preexiſtence before it. And again; 2. That the ſubſtance or eſſence of this moſt high God, is not any way diviſible, partible or multipliable; ſo that, <hi>Si Chriſtus ex Dei ſubſtantiâ generatus fuit, tota ei Patris ſubſtantia, eadem numero, communicata fuit.</hi> See <hi>Volkel. de vera Rel. l.</hi> 5. <hi>c.</hi> 12. upon which conſequence well diſcerned, your predeceſſors were conſtrained to deſert Arianiſm, or ſemi-Arianiſm, and to take in other reſpects a more deſperate way, of denying any pre-exiſtence of our Lord before his Incarnation: To return then to our buſi<g ref="char:EOLhyphen"/>neſs. All Scripture being equally true; you know, no Text thereof can be pronounced clear in ſuch a ſenſe, which others, as clear contradict. The non-conſideration of which by the paſſionate or unlearned, is the mother of all errors. The Texts therefore that you produce here ſo manifeſt on your ſide, that they may not contradict many more others as clear againſt you, are to be underſtood to ſpeak of our Lord only according to his <hi>Incarnation, Meſſias</hi> and <hi>Mediatorſhip,</hi> in which he hath an
+<pb n="8" facs="tcp:63884:6"/>inferiority to the Father and is our <hi>Lord,</hi> by a ſpecial Redempti<g ref="char:EOLhyphen"/>on with his blood, in another manner, than He together with his Father, in the ſame eſſence, is the one true God.</p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>All the Texts you have mentioned have been diligently conſidered, and anſwered by our party.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>And your Anſwers are new, forced, abſurd, as may clear<g ref="char:EOLhyphen"/>ly appear to any rational and indifferent perſon peruſing <hi>Vol<g ref="char:EOLhyphen"/>kelius</hi> l. 5. from the 10. to the 14. Chapter. But to omit this diſpute, as now beſide my purpoſe. If your ſenſe of the Scrip<g ref="char:EOLhyphen"/>tures, you have urged, be ſo manifeſt and clear, as you pretend; how comes ſo great a part of the Chriſtian world (doubtleſs rational men), in the ſenſe of theſe very Scriptures ſo much to differ from you? Therefore here I cannot but ſtill ſuppoſe in you the defect of a <hi>due induſtry,</hi> well comparing theſe Scriptures, and void of pride, paſſion, and other intereſt.</p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>And I return the like queſtion to you. If, on the clear<g ref="char:EOLhyphen"/>neſs of the expreſs ſenſe of theſe Scriptures, I cannot infallibly ground my faith, againſt many other rational men contradict<g ref="char:EOLhyphen"/>ing; on what plainneſs of the ſenſe of any other Scripture is it, that Proteſtants can ground theirs againſt a contrary ſenſe given by the learned; by ſeveral Councils; by the whole Church of ſome ages, as they do; not promiſing to the Councils, even to the four firſt, an abſolute, but conditional aſſent, <hi>viz.</hi> only ſo far, as their Degrees agree with theſe clear Scriptures? If neither the plain words of Scripture can afford a ſufficient cer<g ref="char:EOLhyphen"/>tainty to me in this matter, which Scriptures, you ſay, in fun<g ref="char:EOLhyphen"/>damentals are to all perſpicuous (and ſuch do many deem this point); nor I can have a ſufficient aſſurance of uſing an unbiaſt induſtry in the underſtanding of theſe Scriptures, and alſo in the comparing them with others, in which I am conſcious to my ſelf of no neglect, I ſee no ſufficient ground of my preſuming to underſtand any other part of Scripture; and then, wherein can lye the aſſurance of a Proteſtant's Faith, for his not erring in <hi>Fundamentals</hi> at leaſt? Biſhop <hi>Lany</hi> tells me,<note n="*" place="margin">Serm. at Whitehall, March <hi>12. 1664.</hi> p. <hi>17.</hi>
+                  </note> 
+                  <hi>That when we have certain knowledge of a thing, we may ſafely learn from the Schools,</hi> viz. <hi>Ubi non eſt formido contrarii; that after diligent ſearch and inquiry when there remains no ſcruple, doubt, and fear of the con<g ref="char:EOLhyphen"/>trary, when the underſtanding is fixt, we are ſaid to be certain</hi>—<hi>And that they who will ſay it, and do think ſo too, may ſafely be abſolved from the guilt of diſobedience.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:63884:6"/>
+               <speaker>Prot.</speaker>
+               <p>
+                  <note n="†" place="margin">Dr. Ferne Diviſion of Churches, p. <hi>46.61.</hi> Chil<g ref="char:EOLhyphen"/>linw. p. <hi>57.</hi>
+                  </note> 
+                  <hi>You have a judgment of diſcretion I grant, and may In<g ref="char:EOLhyphen"/>terpret Scripture for your ſelf: without the uſe of which Judgment you cannot ſerve God with a reaſonable ſervice, who are alſo to give ac<g ref="char:EOLhyphen"/>count of your ſelf, and are to be ſaved by your own Faith, and do periſh upon your own ſcore.</hi> —<note n="†" place="margin">
+                     <hi>Stillingfl. p.</hi> 1, 3.</note> 
+                  <hi>None may uſurp that royal prerogative of Heaven in preſcribing infallibly in matters queſtioned, but leave all to judge according to the Pandects of the Divine Laws, becauſe each Mem<g ref="char:EOLhyphen"/>ber of this Society is bound to take care of his Soul, and of all things that tend thereto</hi>—<note n="*" place="margin">
+                     <hi>Chillinw. p.</hi> 59, 100.</note> 
+                  <hi>In matters of Religion, when the queſtion is, whether any man be a fit judge, and chooſer for himſelf, we ſuppoſe men honeſt, and ſuch as underſtand the difference between a moment and eternity. And then I ſuppoſe that all the neceſſary points in Reli<g ref="char:EOLhyphen"/>gion are plain and eaſie, and conſequently every man in this caſe to be a compleat Judge for himſelf, becauſe it concerns himſelf to Judge aright, as much as eternal happineſs is worth: and if through his own default he Judge amiſs, he alone ſhall ſuffer for it.</hi> To God's righteous Judgment therefore I muſt finally remit you. At your own peril be it. This, of the Socinian's Plea concerning the Scripture on his ſide.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>9</label> Where the ſelf-clearneſs of the ſenſe of Scriptures, not miſta<g ref="char:EOLhyphen"/>kable in Fundamentals, or neceſſaries, upon a due induſtry uſed (of which alſo rightly uſed, men may be ſufficiently aſſu<g ref="char:EOLhyphen"/>red,) being made the ground, as you ſee, of the Proteſtants and Socinians Faith, before theſe two proceed to any further conference, give me leave to interpoſe a word between them, concerning this certainty ſo much ſpoken of, and preſumed on.</p>
+               <p>And here firſt, from this way, lately taken by many Pro<g ref="char:EOLhyphen"/>teſtants, there ſeems to be ſomething neceſſarily conſequent,<label type="milestone">
+                     <seg type="milestoneunit">§. </seg>10</label> which I ſuppoſe they will by no means allow; <hi>viz.</hi> That in<g ref="char:EOLhyphen"/>ſtead of the Roman Church her ſetting up ſome men, (the Church Governors,) as infallible in neceſſaries, here is ſet up by them every Chriſtian, if he will, both infallible in all ne<g ref="char:EOLhyphen"/>ceſſaries; and certain that he is ſo. For the Scripture they af<g ref="char:EOLhyphen"/>firm moſt clear in all neceſſaries to all uſing a due induſtry, and of this due induſtry they alſo affirm, men may be certain, that they have uſed it; being not all, <hi>poſſible,</hi> endeavour, but ſuch a meaſure thereof <hi>as ordinary diſcretion,</hi> &amp;c. <hi>adviſeth to.</hi> (See Mr. <hi>Chillingworth,</hi> p. 19.) And next, from this affirmed, that every one may be ſo certain in all Fundamentals, it muſt be maintained alſo, that their ſpiritual Guides, in a conjunction of them, nay more, every ſingle Prelate, or Presbyter, if they
+<pb n="10" facs="tcp:63884:7"/>are not, yet may be, an infallible Guide to the people in all Points neceſſary. And therefore M. <hi>Chillingworth</hi> freely ſpeaks to this purpoſe<note n="†" place="margin">
+                     <hi>p.</hi> 140.</note> —<hi>That theſe alſo may be both in Fundamentals, and alſo in ſome points unfundamental, both certain of the infallibility of their Rule, and that they do manifeſtly proceed according to it: and then, in what they are certain that they cannot be miſtaken, they may</hi> ((ſaith he<note n="‖" place="margin">
+                     <hi>p.</hi> 118.140. &amp; 166.</note> 
+                  <hi>lawfully decide the controverſies about them, and without raſhneſs propoſe their decrees, as</hi> certain, divine <hi>Revelations: and excommunicate or anathematize any man perſiſting in the contrary error.</hi> And there ſeems reaſon in ſuch <hi>Anathema;</hi> becauſe all others either do or may know the truth of the ſame decrees by the ſame certain means, as theſe Governors do. Now then; what certainty the Guides of a particular Church may have, I hope may alſo thoſe of the Church Catholick: and then, obe<g ref="char:EOLhyphen"/>dience being yielded to theſe by all their inferiors, this will re<g ref="char:EOLhyphen"/>ſtore all things to their right courſe. All this follows upon certainty, 1. That Scriptures are plain in Fundamentals; And 2. That due induſtry is uſed to underſtand them. But, if you ſhould deny that men can have a <hi>certainty</hi> of their in<g ref="char:EOLhyphen"/>duſtry <hi>rightly uſed;</hi> then again, is all the fair ſecurity theſe men promiſe their followers of their not erring in neceſſaries quite vaniſhed.</p>
+               <p>But now, to paſs from this conſequence, (to which I know not what can be ſaid), and to enquire a little after the true grounds of our certainty in any thing, which is here ſo much pretended.</p>
+               <p n="1">1. It cannot be denyed, that he that doth err in one thing, may be certain, that he doth not err in ſome other; becauſe he may have ſufficient ground and means for his not erring in one thing, which he hath not in another. Nor again denied, that he, who poſſibly may err, yet in the ſame thing may be cer<g ref="char:EOLhyphen"/>tain, that he doth not err, if not neglecting ſome means, which he knows will certainly keep him from error.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>11</label> 2. But notwithſtanding theſe: This ſeems alſo neceſſary to be granted on the other ſide (and is ſo by learned Proteſtants,) That in what kind of knowledge ſoever it be (whether of our <hi>Senſe</hi> or <hi>Reaſon,</hi> in whatever <hi>Art</hi> or <hi>Science</hi>) one can never <hi>rightly</hi> aſſure himſelf concerning his own knowledge, that he is certain of any thing for a <hi>truth,</hi> which all, or moſt others of the ſame or better abilities for their cognoſcitive faculties, in all the ſame external means, or grounds of the knowledge thereof, do pro<g ref="char:EOLhyphen"/>nounce an <hi>error.</hi> Not, as if truth were not ſo, though all the World oppoſe it; nor had certain grounds to be proved ſo,
+<pb n="11" facs="tcp:63884:7"/>though all the World ſhould deny them; but becauſe the true knowledge of it, and them, cannot poſſibly appear to one mans intellect, and, <hi>omnibus paribus,</hi> not to others. Now for any diſparity, as to defect, whether in the <hi>inſtrument,</hi> or in the <hi>means</hi> of knowledge, there, where all or moſt differ from me, it ſeems a ſtrange pride not to imagine this defect in my ſelf, rather than them; eſpecially, * whenas, all the grounds of my Science are communicated to them; and * whenas, for my own miſtakes, I cannot know exactly the extent of ſuper<g ref="char:EOLhyphen"/>natural deluſions. I ſay, be this in what knowledge we pleaſe; in that of ſenſe, <hi>ſeeing, hearing, numbring,</hi> or in any of Mr. <hi>Chil<g ref="char:EOLhyphen"/>lingworth's</hi> former inſtances mentioned, § 7. So, I can never rationally aſſure my ſelf of what I ſee, when men, as well or better ſighted, and all external circumſtances for any thing I know being the ſame, ſee no ſuch matter. And this is the Rule alſo propoſed by learned Proteſtants to keep every Fanatick from pleading certainty in his own conceit. See Arch-Biſhop <hi>Laud</hi> (§. 33. Confid. 5. n. 1.)—and <hi>Hooker</hi> (Preface §. 6.) their deſigning of a clear evidence, or demonſtrative argument, <hi>viz. Such as propoſed to</hi> any man, <hi>and underſtood, the mind cannot chuſe but inwardly aſſent to it;</hi> and therefore, ſurely, propoſed to many men, the mind of the moſt cannot diſſent from it.</p>
+               <p>Conſequently, in the Scripture; abſtracting from the in<g ref="char:EOLhyphen"/>ward operations of God's Holy Spirit,<label type="milestone">
+                     <seg type="milestoneunit">§. </seg>12</label> and any external infal<g ref="char:EOLhyphen"/>lible Guide, (which infallible Guide Scripture it ſelf cannot be to <hi>two</hi> men delivering a contrary ſenſe thereof:) I ſee not from whence any certainty can ariſe to particular perſons, for ſo many Texts or places thereof, concerning the ſenſe of which, the moſt, or the moſt learned, or their Superiors, to whom alſo all their motives or arguments are repreſented, do differ from them. From the plainneſs of the expreſſion or Gram<g ref="char:EOLhyphen"/>matical conſtruction of the words, ſuch certainty cannot ariſe; unleſs no term thereof can poſſibly be diſtinguiſhed, or taken in a diverſe or unliteral ſenſe; but, if it cannot be ſo taken, then all Expoſitors muſt needs agree in one and the ſame ſenſe. For Example, For the <hi>Literal</hi> and <hi>Grammatical</hi> ſenſe, what Text Plainer than <hi>[Hoc eſt corpus meum]?</hi> and yet Proteſtants under<g ref="char:EOLhyphen"/>ſtand it otherwiſe. Very deficient therefore ſeemeth that anſwer of Mr. <hi>Chillingworth's</hi> to <hi>F. Knot</hi>
+                  <note n="‖" place="margin">Chillingw. p. <hi>307.</hi>
+                  </note>, urging, <hi>That the firſt Reformers ought to have doubted, whether their opinions were certain,</hi> —<hi>Which is to ſay</hi> (anſwers he), <hi>that they ought to have doubted of the certain<g ref="char:EOLhyphen"/>ty of Scripture; which</hi> in formal and expreſs terms, <hi>contains many
+<pb n="12" facs="tcp:63884:8"/>of their opinions</hi> [whenas the greater world of Catholicks ſees no ſuch matter.] Beſides, as there is no term almoſt in any ſen<g ref="char:EOLhyphen"/>tence, but is capable of ſeveral acceptions; ſo, ſince no falſhood, no diſcord is in the Scriptures, there is no ſentence in it, how<g ref="char:EOLhyphen"/>ever ſounding for the expreſſion, but muſt be reconciled in its ſenſe to all the reſt; and for this a diligent comparing of Texts is neceſſary, to attain the true meaning of many places, that ſeem at the firſt ſight moſt clear in what they ſay, but that there are alſo other places as clear that ſeem to ſay the contrary: And ſome ſuch places they were, (and that in very neceſſary points too) of which St. <hi>Peter</hi> ſaith; <hi>That ſome wreſted them to their own damnation</hi>
+                  <note n="‖" place="margin">2 <hi>Pet.</hi> 3.16.</note> 
+                  <hi>wreſted them,</hi> becauſe they wanted (not induſtry, but) learning; <hi>which the unlearned</hi> (ſaith he) <hi>wreſt</hi>—And in<g ref="char:EOLhyphen"/>deed commonly the moſt ignorant have the ſtronglieſt-concei<g ref="char:EOLhyphen"/>ted certainty for what they apprehend or believe, becauſe they know feweſt reaſons againſt it; whilſt, by much ſtudy and com<g ref="char:EOLhyphen"/>paring ſeveral Revelations one with another, thoſe come at laſt to doubt, or deny that ſenſe of ſome of them, which at the firſt they took for moſt certainly and evidently true. Pardon this long Parentheſis.</p>
+            </sp>
+         </div>
+         <div n="2" type="conference">
+            <head>
+               <hi>CONFERENCE II.</hi> The Socinians Proteſtant-Plea, For his not holding any thing contrary to the unanimous ſenſe of the Catholick Church, ſo far as this can juſtly oblige.</head>
+            <argument>
+               <p n="1">
+                  <hi>1ſt.</hi> THat an unanimous Conſent of the <hi>whole</hi> Catholick Church in all ages, ſuch as the Proteſtants require for the proving of a point of faith to be neceſſary, can never be ſhewed, concerning this point of <hi>Conſubſtantiality.</hi> §. <hi>14.</hi>
+               </p>
+               <p>And that the conſent, to ſuch a doctrine of the <hi>major part</hi> is no argu<g ref="char:EOLhyphen"/>ment ſufficient, ſince the Proteſtants deny the like conſent valid for ſeveral other points § <hi>14.</hi>
+               </p>
+               <p n="2">
+                  <hi>2.</hi> That ſuppoſing an unanimous conſent of the Church Catholick of all ages in this point, yet from hence a Chriſtian hath no ſecurity of the truth thereof according to Proteſtant Principles, if this point, (whe<g ref="char:EOLhyphen"/>ther way ſoever held) be a non-neceſſary; for that in ſuch, it is ſaid the <hi>whole</hi> Church may err. §. <hi>15.</hi>
+               </p>
+               <p n="3">
+                  <pb n="13" facs="tcp:63884:8"/>
+                  <hi>3.</hi> That this Article's being in the affirmative, put in the Creed proves it not (as to the affirmative) a Neceſſary. §. <hi>16.</hi>
+               </p>
+               <p n="1">
+                  <hi>1ſt.</hi> Becauſe not originally in the Creed, but added by a Council; to which Creed if one Council may add, ſo may another of equal authority in any age, whatever reſtraint be made by a former Council.</p>
+               <p n="2">
+                  <hi>2.</hi> Becauſe ſeveral Articles of the latter Creeds are affirmed by Pro<g ref="char:EOLhyphen"/>teſtants not neceſſary to be believed, but upon a previous conviction, that they are divine revelation. §. <hi>16.</hi>
+               </p>
+               <p n="4">
+                  <hi>4.</hi> Laſtly. That though the whole Church delivers for truth in any point, the contrary to that he holds, he is not obliged to reſign his judgment to her's, except conditionally, and with this reſervation, unleſs on the other ſide, there appear evidence to him in God's Word. Now, of the evidence of Scripture in this point on his ſide, that he hath no doubt. §. <hi>17.</hi>
+               </p>
+            </argument>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>13</label> 2. NOw to reſume the <hi>Conference.</hi> The <hi>Proteſtant,</hi> better thinking on it, will not leave the Socinian thus at reſt in this plerophory of his own ſenſe of Scripture, but thus proceeds.</p>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>
+                  <hi>Scriptures</hi> indeed are not ſo clear and perſpicuous to every one<note n="‖" place="margin">
+                     <hi>Stillingfl. p.</hi> 58, 59.</note> 
+                  <hi>as that Art and ſubtilty may not be uſed to pervert the Catholick doctrine, and to wreſt the plain places of Scripture which deliver it, ſo far from their proper meaning, that very few ordinary capacities may be able to clear themſelves of ſuch miſts as are caſt before their eyes, even</hi> in the great Articles of the Chriſtian Faith. Therefore why do not you ſubmit your judgment, and aſſent to <hi>the ſenſe of Scrip<g ref="char:EOLhyphen"/>ture,</hi> in this point <hi>unanimouſly delivered by the conſent of the Ca<g ref="char:EOLhyphen"/>tholick Church;</hi> which alſo is believed always unerrable in any neceſſary point of faith, as this is?</p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>Firſt, If you can ſhew me <hi>an unanimous conſent</hi> of the Church Catholick of all ages in this point, and that as held ne<g ref="char:EOLhyphen"/>ceſſary, I will willingly ſubmit to it. But this you can never do according to ſuch a proof thereof, as is required, <hi>viz.</hi>
+                  <note n="‖" place="margin">Stillingfl. p. <hi>72.</hi>
+                  </note> 
+                  <hi>That all Catholick Writers agree in the belief of it; and none of them oppoſe it: and agree alſo in the belief of the neceſſity of it to all Chriſtians. * That no later Writers and Fathers, in oppoſition of Hereticks, or heats of contention, judged then the Article ſo oppoſed to be more neceſſary than it was judged before the contention. * That all Writers, that give an account of the Faith of Chriſtians, deliver it; And deliver it not as neceſſary to be believed by ſuch as might be convinced that it is of di<g ref="char:EOLhyphen"/>vine Revelation, but with a neceſſity of its being explicitely believed
+<pb n="14" facs="tcp:63884:9"/>by all</hi>
+                  <note n="‖" place="margin">See before <hi>Diſ.</hi> 3. §. 52.</note>. Now, no ſuch unanimous conſent can be pretended for the forementioned <hi>Conſubſtantiality.</hi> For, (not to ſpeak of the times next following the Council of <hi>Nice,</hi> nor yet of ſeveral ex<g ref="char:EOLhyphen"/>preſſions in the Ancients, <hi>Juſtin Martyr, Irenaeus, Tertullian, Cle<g ref="char:EOLhyphen"/>mens Alexandrinus, Origen,</hi> that ſeem to favour our opinion<note n="†" place="margin">See Peta<g ref="char:EOLhyphen"/>vius in Epi<g ref="char:EOLhyphen"/>pha. Haer. <hi>69.</hi>
+                  </note>: Nor, of thoſe Eaſtern Biſhops, which <hi>Arrius,</hi> in his Letter to <hi>Euſebius Nicomed.</hi>
+                  <note n="‖" place="margin">Apud Epi<g ref="char:EOLhyphen"/>pha. Haer. <hi>69</hi> —Theodor. l. <hi>1</hi> c. <hi>5.</hi>
+                  </note> (numbers on his ſide,) <hi>Hilarius</hi>
+                  <note n="*" place="margin">De Synod.</note> relates no leſs than Eighty Biſhops before that Council, to have diſallowed the reception of the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; and in the Council alſo Seventeen, (ſome of note) at firſt to have diſſented from the reſt.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>14</label> Not yeilding what you ſay for truth; but for the pre<g ref="char:EOLhyphen"/>ſent, ſuppoſing it; yet the Judgment of ſo <hi>ſmall</hi> a <hi>party</hi> may by no means be adhered to by you, it being inconſiderable in reſpect of the <hi>whole Body</hi> of the Catholick Church declaring againſt you.</p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>If the conſent of the much major part is to be taken for the whole, then the Reformed cannot maintain their diſſent from the much more numerous body of Chriſtianity, that op<g ref="char:EOLhyphen"/>poſed their opinions, and ſenſe of Scriptures at the beginning of the Reformation, and do ſtill oppoſe them. But not to ſtand upon this, I would willingly conform to the unanimous, or moſt general judgment of the Church Catholick; if I were ſecure that ſhe could not be miſtaken in it. But<note n="†" place="margin">Still. p. <hi>59.</hi>
+                  </note> 
+                  <hi>The ſenſe of the Church Catholick is no infallible rule of interpreting Scripture in all things which concern the Rule of Faith</hi>—<note n="*" place="margin">Stillingfl. p. <hi>133.</hi>
+                  </note> 
+                  <hi>Nor may ſhe uſurp that royal Prerogative of Heaven, in preſcribing infallibly in matters que<g ref="char:EOLhyphen"/>ſtioned.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>You may be ſecure, that ſhe never erreth in any point <hi>neceſſary.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>But you tell me, that though ſhe never err in neceſſaries, yet it follows not, that ſhe is an <hi>unerring Guide</hi> or <hi>Witneſs</hi> therein<note n="‖" place="margin">Stilling. p. <hi>154, 152.</hi>— Chillingw. p. <hi>150.</hi>—Dr. Hammond Defence of the Lord Falkl. p. <hi>23.</hi>
+                  </note> or, <hi>that ſhe muſt unerringly declare what points are neceſſary and what not;</hi> and I muſt firſt learn, whether this point of <hi>Conſubſtan<g ref="char:EOLhyphen"/>tiality</hi> is to be numbred among <hi>neceſſaries,</hi> before I can be aſſured, that the ſenſe of the Church Catholick errs not therein.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>15</label> But<note n="‖" place="margin">Stillingfl. p. <hi>59.</hi>
+                  </note> 
+                  <hi>It is a ſufficient preſcription againſt any thing which can be alledged out of Scripture, that it ought not to be looked on as the true meaning of Scripture, if it appear contrary to the ſenſe of the Church Ca<g ref="char:EOLhyphen"/>tholick from the beginning; and therefore ſuch doctrines may well be judged deſtructive to the rule of Faith, which have been ſo unanimouſly condemned by the Church Catholick.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:63884:9"/>
+               <speaker>Soc.</speaker>
+               <p>Why ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>
+                  <note n="‖" place="margin">Stilling. ib.</note>
+                  <hi>Becauſe nothing contrary to the neceſſary Articles of Faith can be held by the Catholick Church; for its very Being depends on its belief of neceſſaries to ſalvation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>This laſt is moſt true; but then, if you mean to make your diſcourſe cohere, you muſt ſay, it is a ſufficient preſcrip<g ref="char:EOLhyphen"/>tion, <hi>&amp;c.</hi> if it appear contrary to the ſenſe of the Catholick Church, <hi>viz. in a point neceſſary:</hi> for, the reaſon you give carries, and ſecures you no further; and then that which you ſay is no great matter: For, here we are ſtill to ſeek, whether the point we diſcourſe of is in the affirmative ſuch a <hi>neceſſary.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>16</label> But this is ranked among thoſe points which the Church hath put in her Creeds.</p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>From the beginning this Article was not in the Creed; and though it ſhould be granted that all points neceſſary are contained in the Creeds, yet all in the Creeds are not thought points neceſſary:<note n="†" place="margin">
+                     <hi>Stillingfl. p.</hi> 70, 71.</note> 
+                  <hi>Neceſſary ſo, as to be believed by any before a clear conviction of the divine Revelation thereof:</hi> which conviction I yet want.</p>
+            </sp>
+            <sp>
+               <speaker>Prot.</speaker>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">§. </seg>17</label> But yet, though, firſt the Catholick Church may err in <hi>non-neceſſaries;</hi> And 2ly. in what points are <hi>neceſſary,</hi> what not, her judgment be not infallible, yet you have ſtill great reaſon to ſubmit your judgment to hers; becauſe, if it happen to be a point neceſſary, ſhe is from the divine Promiſe infallible and unerring in it; not ſo, you. 2. If not neceſſary, and ſo both ſhe and you therein liable to error, yet you much the more; and ſhe alſo in theſe things is appointed by God for your Tea<g ref="char:EOLhyphen"/>cher and Guide.</p>
+            </sp>
+            <sp>
+               <speaker>Soc.</speaker>
+               <p>Therefore I uſe the help and direction of my ſpiritual Guides; conſider their reaſons; do not raſhly depart from their judgment; but yet<note n="‖" place="margin">Dr. Ferne Conſiderati<g ref="char:EOLhyphen"/>ons, p. <hi>10.</hi>
+                  </note> 
+                  <hi>The due ſubmiſſion of my aſſent, and belief to them is only to be conditional, with reſervation of evidence in God's Word. For in matter of Faith</hi> (as Dr. <hi>Ferne</hi> ſaith) <hi>I cannot ſubmit to any company of men by reſignation of my judgment and belief to re<g ref="char:EOLhyphen"/>ceive for faith all that they ſhall define, for ſuch reſignation ſtands ex<g ref="char:EOLhyphen"/>cluded by the condition of the authority which is not infallible; and by the condition of the matter, faith, of high concernment to our own ſouls, and to be accounted for by</hi> our ſelves: <hi>who therefore ſtand bound to make preſent, and diligent ſearch for that evidence and demonſtration from God's Word, upon which we may finally and ſecurely ſtay our be<g ref="char:EOLhyphen"/>belief</hi>—And<note n="‖" place="margin">The Caſe between the Churches, p. <hi>40.</hi>
+                  </note> 
+                  <hi>The Church determining matter of faith</hi> (ſaith he) <hi>ought to manifeſt it out of</hi> God's Word: <hi>and we may expect ſuch
+<pb n="16" facs="tcp:63884:10"/>proof, before we yield abſolute aſſent of belief.</hi> And ſo Dr. <hi>Stillingfleet</hi> ſaith<note n="‖" place="margin">
+                     <hi>p.</hi> 133.</note> —<hi>All men ought to be left to judge according to the Pandects of the divine Laws, becauſe each member of this Society is bound to take care of his Soul, and of all things that tend thereto.</hi> Now I for my part ſee no ſolid ground out of the Scripture for <hi>Conſubſtantiality,</hi> but rather for the contrary; which ſeveral of our Writers have made appear to the world. And therefore unleſs the Church were either infallible in all ſhe determined, or at leaſt in diſtin<g ref="char:EOLhyphen"/>guiſhing thoſe neceſſaries wherein ſhe cannot err from the reſt, it ſeems no way juſtifiable, that ſhe puts this her definition into the Creed; ſhe, as I conceive, thus requiring from all an abſolute conſent thereto; and not only (as ſome<note n="‖" place="margin">Still. p. <hi>70.</hi>
+                  </note> would perſwade me) a conditional for ſome of them, <hi>viz.</hi> whenever I ſhall be clearly convinced, that ſuch point is of divine Revelation.</p>
+            </sp>
+         </div>
+         <div n="3" type="conference">
+            <head>CONFERENCE III. His Plea, for his not holding any thing contrary to the De<g ref="char:EOLhyphen"/>finitions of <hi>lawful General Councils,</hi> the juſt conditions thereof obſerved.</head>
+            <argument>
+               <p>THat he conceives he ows no obedience to the Council of <hi>Nice.</hi>
+               </p>
+               <p n="1">
+                  <hi>1.</hi> Becauſe this cannot be proved to have been a lawful General Council with ſo much certainty, as is neceſſary for the ground of his Faith, as appears by thoſe many queſtions mentioned by Mr. <hi>Chilling<g ref="char:EOLhyphen"/>worth, Stillingfleet,</hi> and other Proteſtants, wherein he muſt firſt be ſatisfied, concerning it.</p>
+               <p n="2">
+                  <hi>2.</hi> Becauſe, though it were a General Council, yet it might err even in neceſſaries, if it were not univerſally accepted; as he can ſhew it was not.</p>
+               <p n="3">
+                  <hi>3.</hi> That, though yielded to be generally accepted, it might err ſtill in non-neceſſaries; and that Proteſtants cannot prove this point to be otherwiſe.</p>
+               <p n="4">
+                  <hi>4.</hi> That the Leaders of this Council were plainly a party conteſting this, for many years before, with the other ſide condemned by them; and were Judges in their own cauſe.</p>
+               <p n="5">
+                  <hi>5.</hi> All theſe exceptions cancelled, and Obedience granted due to this Council; yet, that ſo, there is due to it not that of <hi>aſſent,</hi> but only of <hi>ſilence.</hi> §. <hi>19.</hi>
+               </p>
+               <p n="6">
+                  <pb n="17" facs="tcp:63884:10"/>
+                  <hi>6.</hi> But yet not that of ſilence neither from him; conſidering his preſent perſwaſion, that indeed the affirmative in this point is an error <hi>mani<g ref="char:EOLhyphen"/>feſt</hi> and <hi>intolerable:</hi> concerning which matter his party having long complained to their Superiors, and produced ſufficient evidence; yet theſe have proceeded to no redreſs of it. §. <hi>20.</hi>
+               </p>
+               <p n="7">
+                  <hi>7.</hi> But yet that he will ſubmit to the Judgment of a future Council, if it, rightly conſidering the reaſons of his tenent, decree that which is according to God's Word, and he be convinced thereof, §. <hi>22.</hi>
+               </p>
+            </argument>
+            <p n="3">3. <hi>PRot.</hi> But do you not conſider by what perſons this Article was long ago inſerted into the Creed:<label type="milestone">
+                  <seg type="milestoneunit">§. </seg>18</label> Namely, by the <hi>firſt General,</hi> and the moſt venerable Aſſembly of the <hi>Fathers</hi> of the Church that hath been convened ſince the <hi>Apoſtles</hi> times; celebrated under the <hi>firſt Chriſtian</hi> Emperor by a perfect Repre<g ref="char:EOLhyphen"/>ſentative of the Catholick Church; and by ſuch perſons, as came very much purified out of the newly-quenched fire of the greateſt perſecution that the Church hath ſuffered, that under <hi>Diocleſian;</hi> will not you then at leaſt ſubmit your judgment to the Decree of this great and holy Council; one and the firſt of thoſe four which St. <hi>Gregory</hi> ſaid he received with the ſame re<g ref="char:EOLhyphen"/>verence, as the four Goſpels?</p>
+            <p>
+               <hi>Soc.</hi> No, And for this I ſhall give you in brief many reaſons, as I conceive ſatisfactory. For 1. Had I an obligation of ſub<g ref="char:EOLhyphen"/>miſſion of judgment to lawful General Councils, you cannot prove this ſuch a one, and thoſe the decrees thereof which are now extant, with ſuch a certainty as is neceſſary to build there<g ref="char:EOLhyphen"/>on an Article of my Faith. For to prove this, you muſt ſatiſ<g ref="char:EOLhyphen"/>fie me in all thoſe things queſtioned concerning General Coun<g ref="char:EOLhyphen"/>cils * by M. <hi>Chillingworth,</hi> p. 94. * By Dr. <hi>Pierce</hi> in his anſwer to Mr. <hi>Creſſy,</hi> p. 18. &amp;c. * By Mr. <hi>Whitby</hi> from p. 428. to p. 433. [where he concludes: 1. <hi>That we never had a General Council.</hi> 2. <hi>That a General Council is a thing impoſſible</hi>] * By Mr. <hi>Stillingfleet</hi> p. 508. &amp;c.—495. 119. 123. &amp;c. Who alſo, againſt the be<g ref="char:EOLhyphen"/>ing of ſuch a General Council as is the Repreſentative of the whole Church Catholick, thus diſputes<note n="‖" place="margin">
+                  <hi>p.</hi> 515, 516</note>—<hi>The repreſentation of a Church</hi> (ſaith he) <hi>by a General Council, is a thing not ſo evident, from whence it ſhould come: for if ſuch repreſentative of the whole Church there be, it muſt either be ſo by ſome formal act of the Church, or by a tacite conſent. It could not be by any formal act of the Church; for then there muſt be ſome ſuch act of the univerſal Church preceding the being of any General Council, by which they receive their Com<g ref="char:EOLhyphen"/>miſſion to appear in behalf of the univerſal Church. Now that the
+<pb n="18" facs="tcp:63884:11"/>univerſal Church did ever agree in any ſuch act is utterly impoſſible to be demonſtrated, either that it could be, or that it was. But if it be ſaid, that ſuch a formal act is not neceſſary, but the tacite conſent of the whole Church is ſufficient for it; then ſuch a conſent of the Church muſt be made evident, by which they did devolve over the power of the whole Church to ſuch a</hi> Repreſentative. <hi>And all theſe muſt conſent in that act whoſe power the Council pretends to have; of which no footſteps appear</hi>—<hi>The utmoſt then</hi> (ſaith he) <hi>that can be ſuppoſed in this caſe, is, that the parts of the Church may voluntarily conſent to accept of the decrees of ſuch a Council; and by that voluntary act, or by the ſupreme authority enjoyning it, ſuch decrees may become obligatory.</hi> Thus he. But I ſuppoſe its Decrees obligatory then only to thoſe parts of the Church that voluntarily conſent to accept of them, as the <hi>Arians</hi> did not to receive the <hi>Decrees</hi> of <hi>Nice.</hi> Laſt<g ref="char:EOLhyphen"/>ly, by * Biſhop <hi>Taylor</hi> in the 2d. Part of his <hi>Diſſwaſive, l.</hi> 1. §. 1. p. 29. <hi>&amp;c.</hi> to the end of the Section. Where p. 31. he ſaith con<g ref="char:EOLhyphen"/>cerning this of <hi>Nice,</hi> that makes for you, compared with that of <hi>Ariminum,</hi> which makes for us—<hi>That if a Catholick pro<g ref="char:EOLhyphen"/>ducing the Nicene Council be rencountred by an Arian producing the Council of</hi> Ariminum <hi>which was far more numerous, here are</hi> aquilis aquilae &amp; pila minantia pilis: <hi>but who ſhall prevail? If a General Council be the rule and guide, they will both prevail, that is, neither. And it ought not to be ſaid by the Catholick; Yea, but our Council de<g ref="char:EOLhyphen"/>termined for the truth; but yours for error: For, the</hi> Arian <hi>will ſay ſo too. But, whether they do or no, yet it is plain that they may both ſay ſo: and if they do, then we do not find the truth out by the conduct and deciſion of a General Council; but we approve this General, becauſe upon other accounts we believe that what is there defined is true. And therefore S.</hi> Auſtin's <hi>way here is beſt,</hi> Neque ego Nicaenum Con<g ref="char:EOLhyphen"/>cilium, neque tu Ariminenſe:, <hi>&amp;c. both ſides pretend to General Councils: that which both equally pretend to, will help neither; there<g ref="char:EOLhyphen"/>fore let us go to Scripture.</hi> And <hi>p.</hi> 32.—<hi>What is the reaſon</hi> (ſaith he of Councils in General) <hi>that ſome Councils are partly condemned: the Council of</hi> Sardis, <hi>that in</hi> Trullo, <hi>thoſe of</hi> Frankford, Conſtance, <hi>and</hi> Baſil? <hi>but that every man and every Church accepts the Councils as far as they pleaſe, and no further? The Greeks receive but ſeven General Councils, the Lutherans ſix, the Eutychians three, Neſtorians two,</hi> &amp;c.—Pro captu lectoris habent ſua fata. <hi>It is as every one likes.</hi> I ſpare to tell you what he ſaith, <hi>p.</hi> 26.— <hi>That in the firſt General Council of</hi> Jeruſalem, <hi>which was the firſt precedent, and ought to be the true meaſure of the reſt, the Apoſtles were the Preſidents, and the Presbyters Aſſiſtants, but the Church</hi> [viz. <hi>the
+<pb n="19" facs="tcp:63884:11"/>converted brethren and the Laity,</hi> ſee p. 36.] <hi>was the Body of the Council, and were Parties in the Decree,</hi> quoting <hi>Acts</hi> 15.22, 23. <hi>and that we can have no other warrant of an authentick Council than this.</hi> 2. Though it be ſhewed a lawful General Council, repre<g ref="char:EOLhyphen"/>ſenting the whole Church (as it ought, if ſuch) yet what obli<g ref="char:EOLhyphen"/>gation can there lye upon me of conſenting to it? ſince it may <hi>err</hi> even in <hi>Fundamentals,</hi> if it be not univerſally accepted, as in<g ref="char:EOLhyphen"/>deed this Council was not, for ſeveral Biſhops there were, that were diſſenters in the Council, and many more afterward.<note n="‖" place="margin">
+                  <hi>See before,</hi> §. 13.</note> 3. Were it univerſally accepted; yet unleſs you can ſhew me by ſome means, that this point wherein I differ from its judg<g ref="char:EOLhyphen"/>ment, is a fundamental or neceſſary point to ſalvation, both it, and the Catholick Church alſo that accepts it may err therein. 4. The judgment of this Council ſeems juſtly declinable alſo on this account. That whereas the <hi>Guides</hi> of the <hi>Church,</hi> many years before this Council were divided in their opinion, <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> Patriarch of <hi>Alexandria,</hi> and <hi>Hoſius</hi> a Favorite of the Em<g ref="char:EOLhyphen"/>peror's heading one party; and <hi>Arius</hi> and the Biſhops adhering to him, whom I mentioned formerly<note n="‖" place="margin">§. 13.</note>, heading another, and whereas afterward, in the proſecution of this difference, both the foreſaid <hi>Alexander</hi> in one <hi>Provincial Council</hi> held in <hi>Egypt,</hi> and <hi>Hoſius</hi> ſent thither by the Emperor in another, had there condemned <hi>Arius,</hi> and his Confederates; yet ſo it was ordered, that in this General Council aſſembled for an equal hearing and deciſion of this Controverſie of theſe two profeſſed Enemies to the other party, the one <hi>(Hoſius)</hi> was appointed to ſit as Preſi<g ref="char:EOLhyphen"/>dent of this Council; and the other <hi>(Alexander)</hi> held in it the next place to him; and poor <hi>Arius</hi> excluded; and the Biſhops who favoured him in the Council, though at firſt freely de<g ref="char:EOLhyphen"/>claring their diſſent, yet at laſt over-awed to a ſubſcription; as alſo was <hi>Arius</hi> himſelf chiefly by the Emperor <hi>Conſtantine</hi>'s over<g ref="char:EOLhyphen"/>hearing authority; who, before ſomewhat indifferent in the conteſt, yet upon <hi>Arius</hi> his undutiful and too peremptory Let<g ref="char:EOLhyphen"/>ters, had ſome years before taken great offence at him; and al<g ref="char:EOLhyphen"/>ſo (as he was very eloquent) publickly written againſt him<note n="‖" place="margin">
+                  <hi>See Baro<g ref="char:EOLhyphen"/>nius.</hi> A. D. 318, 319.</note>. Which <hi>overawing</hi> hence appears, in that the ſame <hi>Biſhops</hi> that were adherents to <hi>Arius,</hi> when, this Emperor being deceaſed, <hi>Conſtantius</hi> his Son countenanced their Cauſe, returned, I ſay not to their former Opinion only, but to their publick profeſ<g ref="char:EOLhyphen"/>ſion of it. By which we may gueſs, that if the Controverſie had at that time been committed to equal and diſengaged Judges, and ſuch as had not formerly ſhewed themſelves a Party; or,
+<pb n="20" facs="tcp:63884:12"/>if the Oriental Biſhops, without any fear of the Prince upon them, might have given free Votes; and the <hi>Arian</hi> Cauſe had then had a <hi>Conſtantius</hi> inſtead of a <hi>Conſtantine,</hi> (things wherein Proteſtants well underſtand me, becauſe on the ſame Grounds they have rejected the Council of <hi>Trent</hi>) we may preſume then the iſſue would have been under <hi>Conſtantine</hi> the ſame that it was under his Succeſſor, I ſay before Judges equal and indifferent, and not ſuch as were before a Party, though this Party ſhould be compounded of the chief Superior Prelates of the Church, For, as Dr. <hi>Stillingfleet</hi> urgeth,<note n="‖" place="margin">§. 478.</note> —<hi>We muſt either abſolutely, and roundly aſſert, that it is impoſſible that the Superiors in the Church may be guilty of any error or corruption; or, that if they be, they muſt ne<g ref="char:EOLhyphen"/>ver be called to an account for it; or elſe, that it may be juſt, in ſome Caſes, to except againſt them as Parties: And if in ſome Caſes, then the Queſtion comes to this, Whether the preſent</hi> [he ſpeaks of Idolatry, I of Conſubſtantiality] <hi>be ſome of theſe Caſes or no? And here if we make thoſe Superiors Judges again, what we granted before comes to nothing.</hi>
+            </p>
+            <p>
+               <hi>Prot.</hi> No Perſon that is appointed by our Lord to be a Judge in any Controverſie (as thoſe Biſhops you have mentioned were in the Cauſe of <hi>Arius</hi>) can rightly or properly be ſaid to be, on that Side for which he gives Sentence, a Party. Nor doth their giving Sentence once againſt any Side, prejudice them (as ſuppoſed Enemies, or Oppoſites, or Intereſſed) from ſitting on the Bench, as oft as need requires, to paſs it again, alone, or with others. But, if every one may be afterward called an Anti-party, who once declares himſelf of a contrary Judgment, I perceive Mr. <hi>Chillingworth</hi>'s Obſervation is right,<note n="‖" place="margin">
+                  <hi>p.</hi> 60.</note> 
+               <hi>That, in Controverſies in Religion, it is in a manner impoſſible to be avoided, but the Judge muſt be a Party.</hi> I add alſo, That in Mat<g ref="char:EOLhyphen"/>ters of Religion, where every Man is concerned, and in great Controverſies, eſpecially where is any diviſion of Communi<g ref="char:EOLhyphen"/>on, all, both <hi>Laity</hi> and <hi>Clergy,</hi> ſpeedily own, and range them<g ref="char:EOLhyphen"/>ſelves on one ſide or other; <hi>Clergy</hi> intereſſing themſelves for the neceſſary direction of their <hi>Subjects; Laity,</hi> in obedience to their <hi>Superiors;</hi> neither can ſuch a Judge be nominated, that is not to one ſide ſuſpected. So that, in Controverſies of Religi<g ref="char:EOLhyphen"/>on, we muſt deny any Judge (as he did<note n="‖" place="margin">
+                  <hi>Ib.</hi> §. 10.</note>); or this Plea, That the ordinary Judge, that is aſſigned us, is a <hi>Party,</hi> muſt not be eaſily hearkned to. As for that you urge out of Biſhop <hi>Taylor,</hi> concerning the <hi>Laity</hi> in the firſt Council at <hi>Jeruſalem</hi> (the Pat<g ref="char:EOLhyphen"/>tern to all following) being Parties in the Decree, I ſuppoſe it
+<pb n="21" facs="tcp:63884:12"/>is meant no further, than that alſo theſe may aſſiſt in the Coun<g ref="char:EOLhyphen"/>cil, and give there a conſentient, or atteſting, but not a deciſive Vote: which neither did the Emperors claim, when they pre<g ref="char:EOLhyphen"/>ſided therein. <hi>See Dr. Field of the Church, p.</hi> 646.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>19</label>
+               <hi>Soc.</hi> But I have not yet ſaid all. For Fifthly, Were there none of the forenamed defects in it,<note n="‖" place="margin">Whitby, p. <hi>15.</hi> Stillingfleet, p. <hi>506, 537.</hi>
+               </note> 
+               <hi>No Authority on Earth can oblige to</hi> internal aſſent <hi>in matters of Faith, or to any farther Obedi<g ref="char:EOLhyphen"/>ence than that of</hi> Silence.</p>
+            <p>
+               <hi>Prot.</hi> Yes, you ſtand obliged to yield a <hi>conditional</hi> aſſent, at leaſt to the Definitions of theſe higheſt Courts, <hi>i. e.</hi> unleſs you can bring evident <hi>Scripture,</hi> or <hi>Demonſtration</hi> againſt them.</p>
+            <p>
+               <hi>Soc.</hi> I do not think Proteſtant Divines agree in this. I find indeed the Archbiſhop<note n="†" place="margin">§. 32. <hi>n.</hi> 5. <hi>&amp;</hi> § 33. <hi>con<g ref="char:EOLhyphen"/>ſid.</hi> 5. <hi>n.</hi> 1.</note> requiring Evidence and Demonſtrati<g ref="char:EOLhyphen"/>on, for Inferiors <hi>contradicting,</hi> or publiſhing their diſſent from the Councils Decrees, but not requiring thus much for their <hi>denial</hi> of <hi>aſſent.</hi> And I am told,<note n="‖" place="margin">Dr. Ferne Caſe be<g ref="char:EOLhyphen"/>tween the Churches, p. <hi>48, 49.</hi> &amp; Diviſion of Churches, p. <hi>45.</hi>
+               </note>—<hi>That in matters propoſed by my Superiors, as</hi> God's Word, <hi>and of</hi> Faith, <hi>I am not tied to believe it ſuch, till they manifeſt it to me to be</hi> ſo; <hi>and not that I am to believe it ſuch, unleſs I can manifeſt it to be</hi> contrary, <hi>becauſe my Faith can reſt on no Humane Authority, but only on God's Word, and Divine Revelation.</hi> And Dr. <hi>Field</hi> ſaith, —<note n="†" place="margin">
+                  <hi>p.</hi> 666.</note> 
+               <hi>It is not neceſſary expreſly to believe what<g ref="char:EOLhyphen"/>ſoever the Council hath concluded, though it be true, unleſs by ſome o<g ref="char:EOLhyphen"/>ther means it appear unto us to be true, and we be convinced of it in ſome other ſort than by the bare Determination of the Council.</hi> Till I am convinced then of my Error, the Obedience of <hi>Silence</hi> is the moſt that can be required of me.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>20</label> But ſixthly, I conceive my ſelf in this point not obliged to this neither; conſidering my preſent perſuaſion, that this Council <hi>manifeſtly</hi> erred; and that, in an error of ſuch high conſequence (concerning the <hi>unity</hi> of the <hi>moſt high God</hi>) as is no way to be tolerated; and I want not evident Scriptures, and many other unanſwerable Demonſtrations, to ſhew it did ſo; and therefore being admitted into the honourable Function of the Miniſtry, I conceive I have a lawful Commiſſion from an <hi>higher Authority,</hi> to publiſh this great Truth of <hi>God,</hi> and to con<g ref="char:EOLhyphen"/>tradict the <hi>Councils</hi> Decree.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>21</label>
+               <hi>Prot.</hi> But you may eaſily miſtake that for <hi>evident Scripture,</hi> and thoſe for <hi>Demonſtrations,</hi> that are not. Concerning which you know what the Archbiſhop and Mr. <hi>Hooker</hi> ſay<note n="†" place="margin">A.B. Laud <hi>245.</hi>
+               </note> —<hi>That they are ſuch, as propoſed to any man, and underſtood, the mind cannot chuſe but inwardly aſſent to them</hi>
+               <note n="‖" place="margin">Id. p. <hi>227.</hi>
+               </note>. You ought therefore firſt to propoſe theſe to your Superiors, or to the Church, deſiring a
+<pb n="22" facs="tcp:63884:13"/>redreſs of ſuch Error by her calling another Council. And, if theſe Superiors, acquainted therewith, diſlike your Demonſtra<g ref="char:EOLhyphen"/>tions, which the Definition ſaith, if they be right ones, they muſt be by all, and therefore by them, aſſented to, methinks, (though this is not ſaid by the Archbiſhop) in humility you ought alſo to ſuſpect theſe Demonſtrations, and remain in ſi<g ref="char:EOLhyphen"/>lence at leaſt, and no further trouble the Church.</p>
+            <p>
+               <hi>Soc.</hi> May therefore no particular Perſon, or Church, proceed to a Reformation of a former Doctrine, if theſe Superiors, firſt complained to, declare the Grounds of ſuch Perſons or Church<g ref="char:EOLhyphen"/>es for it, not ſufficient?</p>
+            <p>
+               <hi>Prot.</hi> I muſt not ſay ſo. But if they neglect (as they may) to conſider their <hi>juſt</hi> Reaſons ſo diligently as they ought, and to call a Council for the Correcting of ſuch Error according to the weight of theſe Reaſons, then here is place for Inferiors to proceed to a reformation of ſuch Error without them.</p>
+            <p>
+               <hi>Soc.</hi> And who then ſhall judge, whether the Reaſons pre<g ref="char:EOLhyphen"/>tended are <hi>defective,</hi> or rather the preſent Church <hi>negligent</hi> in conſidering them?</p>
+            <p>
+               <hi>Prot.</hi> Here, I confeſs, to make <hi>the Superiors</hi> Judges of this, is to caſt the Plaintiff before that any Council ſhall hear his Grie<g ref="char:EOLhyphen"/>vance, theſe Superiors, whoſe Faith appears to adhere to the former Council, being only Judges in their own Cauſe; and ſo the liberty of complaining will come to nothing<note n="‖" place="margin">
+                  <hi>Stillingfl. p.</hi> 479, 292.</note>.</p>
+            <p>
+               <hi>Soc.</hi> The Inferiors then, that complain, I ſuppoſe are to judge of this. To proceed then. To theſe Superiors, in many di<g ref="char:EOLhyphen"/>ligent Writings, we have propoſed, as we think, many unan<g ref="char:EOLhyphen"/>ſwerable Scriptures, and Reaſons much advanced beyond thoſe repreſented by our Party to the former <hi>Nicene</hi> Council (and therefore from which Evidences of ours we have juſt cauſe to hope from a future Council a contrary Sentence); and finding no redreſs by their calling another Council for a reviewing this Point, we cannot but conceive it as lawful for a Socinian Church, Paſtor, or Biſhop, to reform for themſelves, and the Souls committed to them, in an Error appearing to them <hi>mani<g ref="char:EOLhyphen"/>feſt</hi> and <hi>intolerable,</hi> as for the Proteſtants, or for Dr. <hi>Luther,</hi> to have done the ſame for Tranſubſtantiation, Sacrifice of the Maſs, and other Points that have been concluded, againſt the Truth, by ſeveral former Councils.</p>
+            <p>
+               <hi>Prot.</hi> But ſuch were not <hi>lawful General Councils,</hi> as that of <hi>Nice</hi> was.</p>
+            <p>
+               <hi>Soc.</hi> Whatever theſe Councils were, this much matters not,
+<pb n="23" facs="tcp:63884:13"/>as to a <hi>reformation</hi> from them: for, had they been lawfully Ge<g ref="char:EOLhyphen"/>neral, yet Proteſtants hold<note n="‖" place="margin">See before, Diſc. <hi>3.</hi>
+               </note>, theſe not univerſally accepted may err even in <hi>Fundamentals;</hi> or, when ſo accepted, yet may err in Non-fundamentals; Errors <hi>manifeſt,</hi> and <hi>intolerable,</hi>
+               <note n="§." place="margin">34, <hi>&amp;c.</hi>
+               </note> and ſo may be appealed from to future; and thoſe not called, their Error preſently rectified by ſuch Parts of Chriſtianity as diſ<g ref="char:EOLhyphen"/>cern it; and alſo S. <hi>Auſtin</hi>
+               <note n="‖" place="margin">De Baptiſ<g ref="char:EOLhyphen"/>mo, l. <hi>2.</hi> c. <hi>3.</hi>
+               </note> is frequently quoted by them, ſay<g ref="char:EOLhyphen"/>ing— <hi>That paſt General Councils erring, may be corrected by other Councils following.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>22</label>
+               <hi>Prot.</hi> But I pray you conſider, if that famous Council of <hi>Nice</hi> hath ſo erred, another Council called, may it alſo not err, notwithſtanding your Evidences propoſed to it? For, though perhaps ſome new demonſtrative Proofs you may pretend from ſeveral Texts more accurately compared and explained; yet you will not deny this ſufficient Evidence to have been ex<g ref="char:EOLhyphen"/>tant for that moſt Learned Council to have ſeen the Truth, having then the ſame entire Rule of Faith as you now, the Scriptures, (in which, you ſay, your cleareſt Evidences lie) for their direction. When a future Council (then) is aſſembled, and hath heard your Plea, will you <hi>aſſent</hi> to it, and acquieſce in the Judgment thereof?</p>
+            <p>
+               <hi>Soc.</hi> Yes, interpoſing the Proteſtant-Conditions of Aſſent, <hi>If its Decree be according to God's Word, and we convinced thereof.</hi>
+            </p>
+            <p>
+               <hi>Prot.</hi> Why, ſuch a ſubmiſſion of Judgment and Aſſent I ſuppoſe you will preſently yield to me in any thing, whereof you are convinced by me; may this future Council then challenge no further Duty from you? why then ſhould the Church be trou<g ref="char:EOLhyphen"/>bled to call it?</p>
+            <p>
+               <hi>Soc.</hi>
+               <note n="†" place="margin">Stillingfl. p. <hi>542.</hi>
+               </note> 
+               <hi>Though this future Council alſo ſhould err, yet it may afford Remedy againſt Inconveniences; and one great Inconvenience being, Breaking the Church's Peace; this is remedied by its Authority,</hi> if I only yield the Obedience of Silence thereto.</p>
+            <p>
+               <hi>Prot.</hi> But if your Obedience oblige not to <hi>ſilence</hi> concerning Councils paſt, becauſe of your new Evidences, neither will it to a future, if you think it alſo doth err; and either theſe Evi<g ref="char:EOLhyphen"/>dences remain ſtill unſatisfied, or theſe ſatisfied, yet ſome other new ones appear to call for a new Conſideration.</p>
+            <p>
+               <hi>Soc.</hi>
+               <note n="†" place="margin">Stillingfl. ibid.</note> 
+               <hi>Becauſe it may alſo err, it follows not it muſt err; and it is probable that it ſhall not err, when the former Error is thus diſcovered, and if the Council proceed lawfully, be not overawed,</hi> &amp;c.<note n="‖" place="margin">Id. p. <hi>526.</hi>
+               </note> But how<g ref="char:EOLhyphen"/>ever, if I ought upon this review to be reſtrained to <hi>ſilence,</hi> yet, I not convinced of the truth of its Decree, this Silence is the ut<g ref="char:EOLhyphen"/>termoſt
+<pb n="24" facs="tcp:63884:14"/>that any future Council, after its rejecting my Rea<g ref="char:EOLhyphen"/>ſons, can juſtly exact of me; and not <hi>belief,</hi> or <hi>aſſent,</hi> at all: It may not oblige me, that I ſhould relinquiſh that you call <hi>Soci<g ref="char:EOLhyphen"/>nianiſm</hi> at all, but that, not divulge it; whereas now by the Acts of <hi>former</hi> Councils (I would gladly know upon what rational ground) an <hi>Anathema</hi> is pronounced againſt me, if I do not be<g ref="char:EOLhyphen"/>lieve the contrary, and I am declared to ſtand guilty of <hi>Hereſie</hi> meerly for retaining this Opinion; which retaining it is called <hi>obſtinacy</hi> and <hi>contumacy</hi> in me, after the Councils contrary <hi>De<g ref="char:EOLhyphen"/>finition.</hi>
+            </p>
+         </div>
+         <div n="4" type="conference">
+            <head>CONFERENCE IV. His Plea, for his not being guilty of <hi>Hereſie.</hi>
+            </head>
+            <argument>
+               <p>THat he cannot rightly according to Proteſtant Principles, be accu<g ref="char:EOLhyphen"/>ſed as guilty of <hi>Hereſie,</hi> for ſeveral reaſons.</p>
+               <p n="1">
+                  <hi>1.</hi> Becauſe Proteſtants holding Hereſie to be an <hi>obſtinate</hi> defence of ſome error againſt a fundamental, he thinks from hence his tenent freed from being an Hereſie, as long as in ſilence he retains it, unleſs he engage further, to a publick pertinacious maintaining thereof. §. <hi>23.</hi>
+               </p>
+               <p n="2">
+                  <hi>2.</hi> Fundamentals varying according to particular perſons, and ſuffi<g ref="char:EOLhyphen"/>cient propoſal; none can conclude this point in the affirmative, to be, <hi>as to him,</hi> a fundamental, or, of the truth of which he hath had a ſufficient propoſal.</p>
+               <p n="3">
+                  <hi>3.</hi> That a lawful General Council's declaring ſome point Hereſie, doth not neceſſarily argue that it is ſo; becauſe they may err in Funda<g ref="char:EOLhyphen"/>mentals; or at leaſt in diſtinguiſhing them from other points. §. <hi>26.</hi>
+               </p>
+               <p n="4">
+                  <hi>4.</hi> That he can have no autocatacriſie or obſtinacy in a diſſenting from their Definitions, till he is either actually convinced, or at leaſt hath had a ſufficient propoſal either of the truth of ſuch point defined: that ſuch Councils have authority to require ſubmiſſion, of judgment, and aſſent to their Definitions: of which conviction or ſufficient pro<g ref="char:EOLhyphen"/>poſal (that varies much, according to the differing conditions of ſeveral perſons) as to himſelf, none can judge ſave himſelf; and, con<g ref="char:EOLhyphen"/>ſequently, neither can they judge of his guilt of Hereſie. <hi>Ib.</hi>
+               </p>
+            </argument>
+            <p n="4">
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>23</label> 4. <hi>PRot.</hi> You know that all <hi>Hereticks</hi> are moſt juſtly <hi>anathe<g ref="char:EOLhyphen"/>matized,</hi> and cut off from being any longer Members of the Catholick Church, and ſo do remain excluded alſo from
+<pb n="25" facs="tcp:63884:14"/>Salvation. Now this <hi>Tenent</hi> of yours hath always been eſteem<g ref="char:EOLhyphen"/>ed by the Church of God a moſt pernicious <hi>Hereſie.</hi>
+            </p>
+            <p>
+               <hi>Soc.</hi> I confeſs <hi>Hereſie</hi> a moſt grievous Crime, dread and ab<g ref="char:EOLhyphen"/>hor it, and truſt I am moſt free from ſuch a guilt; and from this I have many ways of clearing my ſelf. For Hereſie (as Mr. <hi>Chillingworth</hi> defines it)<note n="‖" place="margin">
+                  <hi>p.</hi> 271.</note> being not an erring, but an <hi>obſti<g ref="char:EOLhyphen"/>nate</hi> defence of an Error; not of any Error, but of one againſt a <hi>neceſſary</hi> or <hi>fundamental</hi> Article of the Chriſtian Faith. Firſt, Though this which I hold ſhould be an error, and that againſt a Fundamental, yet my ſilence practiſed therein, can never be called an obſtinate defence thereof, and therefore not my tenent an <hi>Hereſie.</hi> 2. Since Fundamentals vary according to particular perſons, and (as Mr. <hi>Chillingworth</hi> ſaith<note n="‖" place="margin">
+                  <hi>p.</hi> 134.</note>)—<hi>N Catalogue thereof, that can be given, can univerſally ſerve for all men; God requiring more of them, to whom he gives more, and leſs of them, to whom he gives leſs; —And that may be ſufficiently declared to one (all things conſidered) which (all things conſidered) is not to another ſufficiently declared: and variety of circumſtances makes it as impoſſible to ſet down an exact Cata<g ref="char:EOLhyphen"/>logue of Fundamentals, as to make a Coat to fit the Moon in all her changes:</hi> And (as Mr. <hi>Stillingfleet</hi> follows him<note n="†" place="margin">
+                  <hi>p.</hi> 98.99.</note>) <hi>ſince the meaſure of Fundamentals depends on the ſufficiency of the propoſition; and none can aſſign what number of things are ſufficiently propounded to the belief of all perſons, or ſet down the exact bounds, as to all individuals, when their ignorance is inexcuſable, and when not; or tell what is the meaſure of their capacity; what allowance God makes for the prejudice of Education,</hi> &amp;c. Hence I conceive my ſelf free from Hereſie, in this my opinion, on this ſcore alſo; becauſe though the contrary be to ſome others a Fundamental truth, and to be explicitly believed by them; yet to me, as not having any ſufficient propoſal, or conviction thereof, but rather of the contrary, it is no <hi>Funda<g ref="char:EOLhyphen"/>mental,</hi> and conſequently, my tenent oppoſing it, if an <hi>error,</hi> yet no <hi>Hereſie.</hi>
+            </p>
+            <p>
+               <hi>Prot.</hi> Do not deceive your ſelf; for though according to dif<g ref="char:EOLhyphen"/>ferent revelations, to thoſe that were without Law,<note place="margin">§. 24.</note> or thoſe under the Law, or thoſe under the Goſpel; <hi>Fundamentals</hi> gene<g ref="char:EOLhyphen"/>rally ſpoken of, might be more to ſome than others; yet to all thoſe who know and embrace the Goſpel, we ſay<note n="‖" place="margin">Chillingw. p. <hi>92.</hi>
+               </note>; all Funda<g ref="char:EOLhyphen"/>mentals are therein clearly propoſed to all reaſonable men, even the unlearned; and therefore the erring therein, to all ſuch, can<g ref="char:EOLhyphen"/>not but be obſtinate and Heretical.</p>
+            <p>
+               <hi>Soc.</hi> Unleſs you mean only this, That all Fundamentals, (<hi>i.e.</hi> ſo many as are required of any one) are clear to him in Scrip<g ref="char:EOLhyphen"/>ture;
+<pb n="26" facs="tcp:63884:15"/>but not all the ſame Fundamentals, there clear to every one; but to ſome more of them, to ſome fewer; I ſee not how this laſt ſaid, accords with that ſaid before by the ſame perſon. But if you mean thus, then <hi>Conſubſtantiality,</hi> (the point we talk of) may be a Fundamental to you, and clear in Scripture, but alſo not clear to me in Scripture, and ſo no Fundamental, and hence I think my ſelf ſafe. For,—<note n="‖" place="margin">Chillingw. p. <hi>367.</hi>
+               </note> 
+               <hi>I believing all that is clear to me in Scripture, muſt needs believe all Fundamentals; and ſo I can<g ref="char:EOLhyphen"/>not incurr Hereſie, which is oppoſite to ſome fundamental—</hi>
+               <note n="*" place="margin">
+                  <hi>Ib.</hi> 101.</note> 
+               <hi>The Scripture ſufficiently informing me what is the Faith, muſt of neceſſity alſo teach me what is Hereſie: That which is ſtreight will plainly teach us what is crooked; and one contrary cannot but manifeſt the other.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>25</label>
+               <hi>Prot.</hi> I pray you conſider a little better what you ſaid laſt; for ſince Hereſie as you grant it, is an obſtinate defence of error only againſt ſome <hi>neceſſary</hi> point of Faith; and all truth deliver<g ref="char:EOLhyphen"/>ed in Scripture is not ſuch; unleſs you can alſo diſtinguiſh, in Scripture, theſe points of neceſſary Faith from others, you can have no certain knowledge of Hereſie; and the believing all that is delivered in Scripture, though it may preſerve you from <hi>incurring</hi> Hereſie, yet cannot direct you at all for <hi>knowing</hi> or <hi>diſ<g ref="char:EOLhyphen"/>cerning</hi> Hereſie, or an error againſt a fundamental or a neceſſa<g ref="char:EOLhyphen"/>ry point of Faith, from other ſimple and leſs dangerous errors, that are not ſo: nor, by this can you ever know what errors are Hereſies, what not; and ſo after all your confidence, if by your neglect you happen not to believe ſome Scriptures in their true ſenſe, you can have no ſecurity in your Fundamental, or neceſſary Faith; or of your not incurring <hi>Hereſie.</hi> Neither, Secondly, according to your diſcourſe, hath the Church any means to know any one to be an <hi>Heretick;</hi> becauſe ſhe can ne<g ref="char:EOLhyphen"/>ver know the juſt latitude of his fundamentals. And ſo <hi>Hereſie</hi> will be a grievous ſin indeed; but walking under ſuch a vizard of non-ſufficient propoſal, as the Eccleſiaſtical Superiors can<g ref="char:EOLhyphen"/>not diſcover or puniſh it. Therefore to avoid ſuch confuſion in the Chriſtian Faith, there hath been alwaies acknowledged in the Church ſome authority for declaring Hereſie; and it may ſeem conviction enough to you, that her <hi>moſt General Councils</hi> have defined the contrary poſition to what you main<g ref="char:EOLhyphen"/>tain; and received it for a <hi>fundamental.</hi> Of which Eccleſiaſti<g ref="char:EOLhyphen"/>cal Authority for declaring Hereſie, thus Dr. <hi>Potter,</hi>
+               <note n="‖" place="margin">
+                  <hi>p.</hi> 97.</note>— <hi>The Catholick Church is careful to ground all her declarations in mat<g ref="char:EOLhyphen"/>ters of Faith, upon the divine authority of Gods written word. And
+<pb n="27" facs="tcp:63884:15"/>therefore whoſoever wilfully oppoſeth a judgment ſo well grounded, is juſtly eſteemed an Heretick; not properly becauſe he diſobeys the Church; but becauſe he yields not to Scripture ſuffientntly propounded, or cleared unto him</hi> [i. e. by the Church.] Where the Doctor ſeems to grant theſe two things: That all that the Catholick Church declares againſt Hereſie is grounded upon the Scrip<g ref="char:EOLhyphen"/>ture; and that all ſuch as oppoſe her judgment are Hereticks: but only he adds, that they are not Hereticks properly, or for<g ref="char:EOLhyphen"/>mally for this oppoſing the Church, but for oppoſing the Scrip<g ref="char:EOLhyphen"/>tures. Whilſt therefore the <hi>formalis ratio</hi> of Hereſie is diſputed, that all ſuch are Hereticks ſeems granted. And the ſame Dr. elſewhere concludes thus,<note n="‖" place="margin">
+                  <hi>p.</hi> 132.</note>—<hi>The miſtaker will never prove, that we oppoſe any Declaration of the Catholick Church,</hi> [he means ſuch a Church as makes Declarations, and that muſt be in her Councils]—<hi>And therefore he doth unjuſtly charge us with Hereſie.</hi> And again, he ſaith,<note n="†" place="margin">
+                  <hi>p.</hi> 103.</note>—<hi>Whatſoever opinion theſe ancient writers</hi> [S. Auſtin, Epiphanius and others] <hi>conceived to be contrary to the common or approved opinion of Chriſtians, that they called an Hereſie, becauſe it differed from the received opinion; not becauſe it oppoſed any formal Definition of the Church:</hi> where, in ſaying, <hi>not becauſe it op<g ref="char:EOLhyphen"/>poſed any Definition,</hi> he means, <hi>not only becauſe.</hi> For, whilſt that, which differed from the received opinion of the Church, was accounted an Hereſie by them, that, which differed from a formal definition of the Church, was ſo much more. Some<g ref="char:EOLhyphen"/>thing I find alſo for your better information, in the Learned Dr. <hi>Hammond,</hi>
+               <note n="†" place="margin">
+                  <hi>Titus</hi> 3.11.</note> commenting on that notable Text in <hi>Titus</hi>— <hi>A man that is an Heretick after the firſt and ſecond admonition, reject,</hi> [a Text implying contrary to your diſcourſe, Hereſie diſcover<g ref="char:EOLhyphen"/>able, and cenſurable by the Church,] where he explains <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſelf-condemned; not to ſignifie a mans publick accu<g ref="char:EOLhyphen"/>ſing or condemning his own doctrines or practices; for that condemnation would rather be a motive to free one from the Church's Cenſures. Nor 2ly to denote one that offends againſt Conſcience, and though he knows he be in the wrong, yet holds out in oppoſition to the Church; for ſo, none but Hypocrites would be Hereticks; and he that ſtood againſt the Doctrin of Chriſt and his Church in the pureſt times</hi> [you may gueſs whom he means] <hi>ſhould not be an Heretick: and ſo no Heretick could poſſibly be admoniſhed or cenſured by the Church, for no man would ac<g ref="char:EOLhyphen"/>knowledge of himſelf, that what he did was by him done againſt his own Conſcience,</hi> [the plea which you alſo make here for your ſelf.] <hi>But to be an expreſſion of his ſeparation from, and diſobedience to the Church; and ſo an evidence of the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="28" facs="tcp:63884:16"/>his being perverted, and ſinning wilfully, and without excuſe.</hi> [See more Proteſtants cited to this purpoſe, <hi>Diſc.</hi> 3. §. 19. What ſay you to this?</p>
+            <p>
+               <hi>Soc.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>26</label> What theſe Authors ſay, as you give their ſenſe, ſeems to me contrary to the <hi>Proteſtant</hi> Principles, [<hi>See D.</hi> Potter, <hi>p.</hi> 165, 167.—<hi>D.</hi> Hammond <hi>of Hereſie,</hi> §. 7. <hi>n.</hi>—§. 9. <hi>n.</hi> 8. <hi>Def. of L. Falkl. c.</hi> 1. <hi>p.</hi> 23.] and to their own poſitions elſe<g ref="char:EOLhyphen"/>where; neither, ſurely, will <hi>Proteſtants</hi> tye themſelves to this meaſure and trial of <hi>autocatacriſie.</hi> For, ſince they ſay; That lawful General Councils may err in Fundamentals; theſe Councils may alſo define, or declare ſomething <hi>Hereſie</hi> that is not againſt a Fundamental; and if ſo, I, though in this ſelf<g ref="char:EOLhyphen"/>convinced, that ſuch is their Definition, yet am moſt free from Hereſie in my not aſſenting to it, or (if they err intoller<g ref="char:EOLhyphen"/>ably) in oppoſing it. Again, ſince Proteſtants ſay, Councils may err in diſtinguiſhing Fundamentals, theſe Councils may err alſo in diſcerning Hereſie, which is an error againſt a Fun<g ref="char:EOLhyphen"/>damental, from other errors that are againſt non-Fundamen<g ref="char:EOLhyphen"/>tals. Again: Whilſt I cannot diſtinguiſh Fundamentals in their Definitions, thus no Definition of a General Council may be receded from by me, for fear of my incurring Hereſie; a conſequence which Proteſtants allow not. Again: Since Pro<g ref="char:EOLhyphen"/>teſtants affirm all Fundamentals plain in Scripture, why ſhould they place <hi>autocatacriſie,</hi> or ſelf-conviction, in reſpect of the Declaration of the Church rather than of the Scripture? But, to requite your former quotations, I will ſhew in plainer Language the ſtating of Proteſtant Divines concerning Autoca<g ref="char:EOLhyphen"/>tacriſie as to the Definitions of the Church, under which my opinion alſo finds ſufficient ſhelter; <hi>We have no aſſurance at all</hi> (ſaith Biſhop <hi>Bramhall</hi>
+               <note n="†" place="margin">Reply to Chalced. p. <hi>105.</hi>
+               </note> 
+               <hi>that all General Councils were, and al<g ref="char:EOLhyphen"/>ways ſhall be ſo prudently managed, and their proceedings always ſo or<g ref="char:EOLhyphen"/>derly and upright, that we dare make all their ſentences a ſufficient con<g ref="char:EOLhyphen"/>viction of all Chriſtians, which they are bound to believe under pain of damnation.</hi> [I add, or under pain of Hereſie]—And <hi>Ib.</hi> p. 102. —<hi>I acknowledge</hi> (ſaith he) <hi>that a General Council, may make that revealed truth neceſſary to be believed by a Chriſtian as a point of Faith, which formerly was not neceſſary to be believed; that is, whenſoever the reaſons and grounds of truth produced by the Council, or the autho<g ref="char:EOLhyphen"/>rity of the Council (which is, and always ought to be very great with all ſober diſcreet Chriſtians) do convince a man in his Conſcience of the truth of the Councils Definitions:</hi> [which truth I am as yet not con<g ref="char:EOLhyphen"/>vinced of, neither from the reaſons nor authority of the Coun<g ref="char:EOLhyphen"/>cil
+<pb n="29" facs="tcp:63884:16"/>of <hi>Nice.</hi> Or, if you had rather have it out of Dr. <hi>Potter</hi> —<hi>It is not reſiſting</hi> (ſaith he<note n="‖" place="margin">
+                  <hi>p.</hi> 128.</note>) <hi>the voice definitive ſentence, which makes an Heretick; but an obſtinate ſtanding out againſt evi<g ref="char:EOLhyphen"/>dent Scripture ſufficiently cleared unto him. And the Scripture may then be ſaid to be ſufficiently cleared when it is ſo opened, that a good and teachable mind (loving and ſeeking truth)</hi> [my Conſcience con<g ref="char:EOLhyphen"/>vinceth me not, but that ſuch I am] <hi>cannot gainſay it.</hi>—Again<note n="†" place="margin">
+                  <hi>p.</hi> 129.</note> —<hi>It is poſſible</hi> (ſaith he) <hi>that the ſentence of a Council or Church may be erroneous, either becauſe the opinion condemned is no Hereſie or error againſt the Faith, in it ſelf conſidered; or becauſe the party ſo condemned is not ſufficiently convinced in his underſtanding (not clouded with prejudice, ambition, vain-glory, or the like paſſion) that it is an error</hi> [one of theſe I account my ſelf.] Or out of Dr. <hi>Ham<g ref="char:EOLhyphen"/>mond,</hi>
+               <note n="†" place="margin">Hereſie, p. <hi>114.</hi>
+               </note>—<hi>It muſt be lawful for the Church of God,</hi> [any Church, or any Chriſtian, upon the Doctors reaſon,] <hi>as well as for the Biſhop of</hi> Rome, <hi>to enquire whether the Decrees of an Univerſal Council have been agreeable to Apoſtolical Tradition or no; and if they be found otherwiſe, to eject them out, or not to receive them into their</hi> belief. <hi>And then ſtill it is the matter of the Decrees, and the Apoſtoli<g ref="char:EOLhyphen"/>calneſs of them, and the force of the teſtification, whereby they are approved and acknowledged to be ſuch, which gives the authority to the Council; and nothing elſe is ſufficient, where that is not to be found.</hi> And elſewhere he both denies in General an Infallibility of Councils, ‖ and grounds the Reverence due to the Four firſt Councils <hi>on their ſetting down and convincing the truth of their Do<g ref="char:EOLhyphen"/>ctrin out of the Scripture words underſtood with piety,—and the fetching their Definitions regularly from the ſenſe thereof, which the General Churches had received down from the Apoſtles.</hi>
+               <note n="‖" place="margin">Of Hereſie p. <hi>96.</hi>
+               </note> [Upon which follows, that, in ſuch caſe, where a Lawful General Council doth not ſo, (as poſſibly it may, and Inferiors are to conſider for themſelves, whether it doth not) there may be no Heretical Autocatacriſie in a diſſent from it, nor this diſſent <hi>an evidence of the</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>and</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>his being perverted and ſinning wilfully, and without excuſe.</hi>]—Laſtly, thus Doctor <hi>Stillingfleet</hi> concerning <hi>Hereſie</hi>
+               <note n="‖" place="margin">Rat. Ac<g ref="char:EOLhyphen"/>count. p. <hi>73.</hi>
+               </note> 
+               <hi>—The formal reaſon of Hereſie is denying ſomething ſuppoſed to be of divine Revelation; and there<g ref="char:EOLhyphen"/>fore,</hi> 2ly. <hi>None can reaſonably be accuſed of Hereſie, but ſuch as have ſufficient reaſon to believe, that that which they deny is revealed by God. And therefore,</hi> 3ly. <hi>None can be guilty of Hereſie for denying any thing declared by the Church; unleſs they have ſufficient reaſon to believe, that whatever is declared by the Church is revealed by God; and therefore the Church's Definition cannot make any</hi> Hereticks, <hi>but
+<pb n="30" facs="tcp:63884:17"/>ſuch as have reaſon to believe, that ſhe cannot err in her Definitions.</hi> From hence alſo he gathers, <hi>That Protestants are in leſs danger of Hereſie than Papiſts, till theſe give them more ſufficient reaſons to prove, that whatever the Church declares, is certainly revealed by God.</hi> Thus he. Now ſuch ſufficient proving reaſons as Proteſtants plead, that Papiſts have not yet given them concerning this matter of Church-Authority, I alledge, that neither have they nor others given me. To be <hi>ſelf-condemned,</hi> therefore, in my diſſent from the definition of the Council of <hi>Nice,</hi> I muſt firſt have ſufficient reaſon propoſed to me to believe, (and ſo remain ſelf-condemned and Heretical in disbelieving it) this point; <hi>viz.</hi> That the Church, or her Council, hath power to define matters of Faith in ſuch manner, as to require my aſſent thereto. Which ſo long as I find no ſufficient reaſon to believe, I ſuppoſe I am freed (without obſtinacy or Hereſie, or being therein ſelf-condemned,) from yielding aſſent to any particular matter of Faith, which the Church defines. And, had I ſuf<g ref="char:EOLhyphen"/>ficient reaſon propoſed to me for believing this point, yet ſo long as I am not actually convinced thereof, I become only guilty of a fault of <hi>ignorance,</hi> not <hi>obſtinacy,</hi> or <hi>autocatacriſie,</hi> or <hi>Hereſie;</hi> for, if I am ſelf-condemned, or guilty of obſtinacy in disbelieving the foreſaid points,<note n="‖" place="margin">Stillingfl. p. <hi>99.</hi>
+               </note> 
+               <hi>Then I become ſo, either by the Church's definition of this point, or without it. By reaſon of the Church's definition of this it cannot be; for this very power of defining is the thing in queſtion, and therefore cannot be cleared to me by the Church's de<g ref="char:EOLhyphen"/>fining it</hi>
+               <note n="†" place="margin">Stillingfl. p. <hi>74.</hi>
+               </note>: and thus, <hi>That thing is propoſed to me in the definition to be believed, which muſt be ſuppoſed to be believed by me already, before ſuch propoſal or definition, or elſe the definition is not neceſſary to be be<g ref="char:EOLhyphen"/>lieved.</hi>
+               <note n="†" place="margin">Ib. p. <hi>99.</hi>
+               </note> Nor <hi>without,</hi> or <hi>before</hi> ſuch definition, can I have an <hi>autocatacriſie;</hi> becauſe this autocatacriſie, you ſay with Dr. <hi>Ham<g ref="char:EOLhyphen"/>mond,</hi> ariſeth from my diſobedience to the Church.</p>
+            <p>
+               <hi>Prot.</hi> Methinks, you make the ſame plea for your ſelf in this matter, as if one, that is queſtioned for not obeying the <hi>divine precepts,</hi> or not believing the divine Revelations delivered in <hi>Scripture,</hi> ſhould think to excuſe himſelf by this anſwer; that indeed he doth not believe the <hi>Scripture</hi> to be <hi>God's Word;</hi> and therefore he conceives, that he cannot reaſonably be required to believe that which is contained therein. And, as ſuch a per<g ref="char:EOLhyphen"/>ſon hath as much reaſon (though this, not from the Scripture, yet from Apoſtolical Tradition) to believe that Scripture is Gods Word, as to believe what is written in it; ſo have you, though not from the <hi>Nicene</hi> Council defining it, yet from
+<pb n="31" facs="tcp:63884:17"/>Scripture and Tradition manifeſting it, as much reaſon to be<g ref="char:EOLhyphen"/>lieve its authority of defining, as what is defined. It's true in<g ref="char:EOLhyphen"/>deed; that had you not ſufficient propoſal, or ſufficient reaſon to know this your duty of <hi>Aſſent</hi> to this definition of the Coun<g ref="char:EOLhyphen"/>cil of <hi>Nice,</hi> you were faultleſs in it; but herein lies your danger, that from finding a <hi>non actual conviction</hi> of the truth, within, (hindred there by I know not what ſupine negligence, or ſtrong ſelf-conceit, <hi>&amp;c.</hi>) you gather a <hi>non-ſufficient propoſal,</hi> without.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>27</label>
+               <hi>Soc.</hi> It remains then to enquire, who ſhall judge concern<g ref="char:EOLhyphen"/>ing this <hi>ſufficient propoſal,</hi> or ſufficient reaſon, which I am ſaid to have, to believe what the <hi>Nicene</hi> Council, or the Church hath declared in this point.<note n="‖" place="margin">Stillingfl. p. <hi>73.</hi>
+               </note> Whether the Church's judg<g ref="char:EOLhyphen"/>ment is to be taken by me in this, or my own made uſe of; If <hi>her judgment,</hi> the ground of my belief and of Hereſie lies ſtill in the Church's <hi>definition;</hi> and thus it will be all one in effect, whether I believe what ſhe declares, without ſufficient rea<g ref="char:EOLhyphen"/>ſon; or learn this of her, when there is ſufficient reaſon to be<g ref="char:EOLhyphen"/>lieve ſo. It muſt be then, <hi>my own judgment,</hi> I am to be directed by in this matter<note n="†" place="margin">See Still. p. <hi>479.</hi>
+               </note>: and if ſo, then it is to be preſumed, that God doth both afford me ſome means not to be miſtaken there<g ref="char:EOLhyphen"/>in; and alſo ſome certain knowledge when I do uſe this means aright: (for, without theſe two I can have no ſecurity in my own judgment in a matter of ſo high concernment, as <hi>Hereſie</hi> and <hi>fundamental Faith</hi> is.) Now this means, in this matter, I preſume I have daily uſed, in that I find my Conſcience, after much examination, therein to acquit me, unleſs you can preſcribe me ſome other ſurer evidence, without ſending me back again to the <hi>authority</hi> of the <hi>Church.</hi>
+            </p>
+            <p>
+               <hi>Prot.</hi> 1. Whilſt your diſcovery of your tenent to be an <hi>Here<g ref="char:EOLhyphen"/>ſie</hi> depends on your having ſufficient reaſon to believe it is ſo. And 2. The judgment of your having, or not having ſufficient reaſon to believe this, is left to your ſelf, the Church hath no means to know you or any other to be an Heretick, till they declare themſelves to be ſo. And thus, in ſtriving to free your ſelf from Hereſie, you have freed all mankind from it, (as to any external diſcovery and convincement thereof) and cancelled ſuch a ſin; unleſs we can find one, that will confeſs himſelf to maintain a thing againſt his own Conſcience.</p>
+            <p>
+               <pb n="32" facs="tcp:63884:18"/>
+               <hi>Soc.</hi> If I, ſo do the Proteſtants; for, they alſo hold none guilty of <hi>Hereſie,</hi> for denying any thing declared by the Church, unleſs they have reaſon to believe, that whatever is decla<g ref="char:EOLhyphen"/>red by the Church is revealed by God; and of this ſufficient reaſon they make not the <hi>Church</hi> or <hi>Superiors,</hi> but <hi>themſelves,</hi> the Judge.</p>
+         </div>
+         <div n="5" type="conference">
+            <head>CONFERENCE V. His Plea, for his not being guilty of <hi>Schiſm.</hi>
+            </head>
+            <argument>
+               <p n="1">
+                  <hi>1.</hi> THat the Socinian Churches have not forſaken the whole Church Catholick, or the external Communion of it: but only left one part of it that was corrupted; and reformed another part, <hi>(i.e.)</hi> them<g ref="char:EOLhyphen"/>ſelves. Or, that he, and the Socinian Churches, being a part of the Catholick, they have not ſeparated from the whole, becauſe not from themſelves. <hi>§. 28.</hi>
+               </p>
+               <p n="2">
+                  <hi>2.</hi> That their ſeparation being for an error unjuſtly impoſed upon them as a condition of Communion, the Schiſm is not theirs, who made the ſeparation; but theirs who cauſed it. <hi>§. 29.</hi>
+               </p>
+               <p>Beſides that, whatever the truth of things be; yet ſo long as they are required by any Church to profeſs they believe, what they do not, their ſeparation cannot be ſaid cauſleſs, and ſo Schiſm. <hi>§. 32.</hi>
+               </p>
+               <p n="3">
+                  <hi>3.</hi> That though he and his party had forſaken the external Communion of all other Churches, yet not the internal; in which they remain ſtill united to them: both in that internal Communion of <hi>Charity,</hi> in not condemning all other Churches as non-Catholick; and in that of <hi>Faith,</hi> in all Eſſentials and Fundamentals, and in all ſuch points, wherein the Unity of the Church Catholick conſiſts. <hi>§. 30.</hi>
+               </p>
+               <p n="4">
+                  <hi>4.</hi> That the doctrin of <hi>Conſubſtantiality</hi> for which they departed, is denyed by them to be any Fundamental; nor can the Churches, from which they depart for it, be a competent Judge againſt them, that it is ſo. <hi>§. 34.</hi>
+               </p>
+               <p n="5">
+                  <hi>5.</hi> That, though they are ſeparaters from the Roman, yet not from the Reformed Churches, which Churches leave men to the liberty of their own judgment; nor require any internal aſſent to their doctrins (in which thing theſe blame the tyranny of the Roman <hi>Church</hi>) ſave
+<pb n="33" facs="tcp:63884:18"/>only conditional, if any be convinced of the truth thereof; or, not convinced of the contrary. <hi>§. 35.</hi>
+               </p>
+               <p n="6">
+                  <hi>6.</hi> In fine, that for enjoying and continuing in the Proteſtant <hi>Com<g ref="char:EOLhyphen"/>munion</hi> he maketh as full a profeſſion of conformity to her Doctrins as <hi>Mr. Chillingworth</hi> hath done in ſeveral places of his book, which yet was accepted as ſufficient. <hi>§. 41.</hi>
+               </p>
+            </argument>
+            <p n="5">5. <hi>PRot.</hi> I have yet one thing more, about which to que<g ref="char:EOLhyphen"/>ſtion you.<label type="milestone">
+                  <seg type="milestoneunit">§. </seg>28</label> If you will not acknowledge your opinion <hi>Hereſie</hi> in oppoſing the publick judgment, and definition of the Catholick Church in that moſt reverend Council of <hi>Nice,</hi> upon pretence that you have not had a convincing Propoſal, that this Definition was therein made according to <hi>God's Word,</hi> or the <hi>Scriptures;</hi> yet, how will you clear your ſelf, or your Socinian Congregations of <hi>Schiſm?</hi> avoidable upon no plea of adherence to Scripture, if it ſhall appear, that you have for this opinion deſerted the Communion of the <hi>Catholick Church;</hi> out of which Church is no Salvation.</p>
+            <p>Soc.<note n="†" place="margin">Dr. Potter p. <hi>75.</hi>
+               </note> 
+               <hi>I grant there neither is, nor can be any juſt cauſe to depart from the Church of</hi> Chriſt; <hi>no more than from</hi> Chriſt <hi>himſelf: there<g ref="char:EOLhyphen"/>fore I utterly deny, that our Churches have made any ſeparation from the</hi> Church Catholick <hi>at all: and this for many reaſons. For</hi> 1ſt.<note n="†" place="margin">Chillingw. p. <hi>274.</hi>
+               </note>—<hi>We have not forſaken the whole Church, or the external Communion of it: but only that</hi> part <hi>of it which is corrupted, and ſtill will be ſo; and have not forſaken, but only reformed another</hi> part <hi>of it, which part</hi> we our ſelves <hi>are: and I ſuppoſe you will not go about to per<g ref="char:EOLhyphen"/>ſwade us, that we have forſaken</hi> our ſelves, <hi>or our own Communion. And if you urge, that we joined our ſelves to no other part, therefore we ſeparated from the whole: I ſay, it follows not, inaſmuch as</hi> our ſelves <hi>were a part of it, and ſtill continued ſo, and therefore can no more ſeparate from the whole, than from our ſelves.</hi>
+            </p>
+            <p>
+               <hi>Prot.</hi> So then, it ſeems we need fear no <hi>Schiſm,</hi> from the <hi>Church Catholick</hi> till a part can divide from it ſelf, which can never be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>29</label>
+               <hi>Soc.</hi> Next, As for our ſeparating from all other particular Churches, the ground of our Separation being an error, which hath crept into the Communion of theſe Churches, and which is unjuſtly impoſed upon us in order to this Commu<g ref="char:EOLhyphen"/>nion, we conceive, in this caſe, if any, <hi>They, not We,</hi> are the <hi>Schiſmaticks:</hi> for as the Arch-Biſhop<note n="‖" place="margin">Lawd. p. <hi>142.</hi>
+               </note>.—<hi>The Schiſm is theirs, whoſe the Cauſe of it is; and be makes the ſeparation, who gives
+<pb n="34" facs="tcp:63884:19"/>the firſt juſt cauſe of it, not he that makes actual ſeparation, upon a juſt cauſe preceding.</hi>
+            </p>
+            <p>Again, Though we have made an actual Separation from them,<label type="milestone">
+                  <seg type="milestoneunit">§. </seg>30</label> as to the not-conforming to, or alſo as to the reforming of an error: yet, Firſt, <hi>As to Charity;</hi> we do ſtill retain with the ſame Churches our former Communion.—<hi>Not divi<g ref="char:EOLhyphen"/>ding from them through the breach of Charity; Or condemning all other Churches, as no parts of the Catholick Church, and drawing the Communion wholly to our ſelves, as did thoſe famous Schiſmaticks, the Donatiſts.</hi> [See Doctor <hi>Ferne Diviſion of Churches,</hi> p. 105. and 31, 32.]</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>31</label> Next, <hi>as to matter of Faith:</hi> We hold that all ſeparation from all particular Churches in ſuch a thing, wherein the <hi>unity</hi> of the Catholick Church doth not conſiſt, is no ſeparation from the whole Church, nor is any thing more, than our ſuſ<g ref="char:EOLhyphen"/>penſion from the Communion of particular Churches, till ſuch their error is reformed. For, as Doctor <hi>Stillingfleet</hi>
+               <note n="‖" place="margin">
+                  <hi>p.</hi> 331.</note>— <hi>There can be no ſeparation from the whole Church but in ſuch things, wherein the unity of the whole Church lies:</hi>—<hi>Whoſo therefore ſeparates from any particular Church as to things not concerning their being, is only ſeparated from the Communion of that Church, and not the Catho<g ref="char:EOLhyphen"/>lick.</hi> Now, that for which we have ſeparated from other Churches, we conceive not ſuch, as is eſſential, or concerns the being of a Church ſo, that without it we or they cannot ſtill retain the eſſence thereof; we declare alſo our readineſs to joyn with them again, if this error be corrected, or at leaſt not impoſed: And<note n="‖" place="margin">Stilling. ib.</note> (as Dr. <hi>Stillingfleet</hi> ſaith) —<hi>Where there is this readineſs of Communion, there is no abſolute ſeparation from the Church as ſuch, but only ſuſpending Communion, till ſuch abuſes be reformed,</hi> [or not preſſed upon us]. And as Biſhop Bramhall<note n="†" place="margin">Vindic. of the Church of Eng. p <hi>9.</hi>
+               </note> —<hi>When one part of the univerſal Church ſeparateth it ſelf from an<g ref="char:EOLhyphen"/>other part, not abſolutely or in eſſentials, but reſpectively in abuſes, and innovations, not as it is a part of the univerſal Church, but only ſo far as it is corrupted and degenerated</hi> [whether in doctrin or manners] <hi>it doth ſtill retain a Communion not only with the Catholick Church, and with all the Orthodox members of the Catholick Church, but even with that corrupted Church, from which it is ſeparated, except only in ſuch Corruptions.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>32</label>
+               <hi>Prot.</hi> Saving better Judgments, methinks a ſeparation (if cauſeleſs) from the Communion of all other Churches, or from thoſe who are our Superiors, in a leſſer matter than ſuch a
+<pb n="35" facs="tcp:63884:19"/>Fundamental or eſſential point of Chriſtianity as deſtroys the being of a Church, ſhould be <hi>Schiſm;</hi> and the ſmaller the point for which we ſeparate, the greater the guilt of our ſeparation. Were not the Donatiſts Schiſmaticks in rejecting the Catholick Communion, requiring their conformity in ſuch a point, in which St. <hi>Cyprian</hi>'s error before the Church's defining thereof was very excuſable; and the African Congregations in his time not un-churched thereby?</p>
+            <p>Soc.<note n="‖" place="margin">D. Potter p. <hi>76.</hi>
+               </note>—<hi>But the Donatiſts did cut off from the Body of Chriſt, and the hope of Salvation, the Church from which they ſeparated, which is the property of Schiſmaticks.</hi> — And<note n="†" place="margin">Stillingfl. p. <hi>359.</hi>
+               </note> —<hi>They were juſtly char<g ref="char:EOLhyphen"/>ged with Schiſm, becauſe they confined the Catholick Church within their own bounds.</hi> But as Dr. <hi>Ferne</hi> ſaith<note n="‖" place="margin">Diviſion of Churches. p. <hi>106.</hi>
+               </note>—<hi>Had the Donatiſts only uſed their liberty and judgment in that practice of re-baptizing Here<g ref="char:EOLhyphen"/>ticks, leaving other Churches to their liberty; and (though thinking them in an error for admitting Hereticks, without baptizing them, yet) willing to have Communion with them, as parts of the Catholick Church (ſaving the practices wherein they differed), then had they not been guilty of Schiſm.</hi> In that which I hold I only follow my Conſcience, condemn not the Churches holding otherwiſe: On the other ſide<note n="‖" place="margin">Chillingw. p. <hi>278.</hi>
+               </note> 
+               <hi>Chriſt hath forbid me under pain of damnation to profeſs what I believe not</hi> [be it ſmall or great] <hi>and conſequently un<g ref="char:EOLhyphen"/>der the ſame penalty hath obliged me to leave the Communion, in which I cannot remain without the Hypocritical Profeſſion of ſuch a thing, which I am convinced to be erroneous.</hi>
+               <note n="†" place="margin">
+                  <hi>Ib.</hi> 279.</note> 
+               <hi>At leaſt this I know, that the Doctrine which I have choſen, to me</hi> ſeems <hi>true, and the con<g ref="char:EOLhyphen"/>trary, which I have forſaken,</hi> ſeems <hi>falſe: and therefore, with<g ref="char:EOLhyphen"/>out remorſe of Conſcience, I may profeſs that, but this I cannot: and a ſeparation, for preſerving my Conſcience, I hope will never be judged cauſeleſs.</hi>
+            </p>
+            <p>
+               <hi>Prot.</hi> At this rate none will be a Schiſmatick, but he who knows he erreth (<hi>i. e.</hi> not who holdeth,<label type="milestone">
+                  <seg type="milestoneunit">§. </seg>33</label> but only who profeſ<g ref="char:EOLhyphen"/>ſeth an error); or who knows, that the point, for the non<g ref="char:EOLhyphen"/>conformity to which, required of him, he deſerts the Church, is a <hi>Truth,</hi> and the contrary, which he maintains, an error. But Doctor <hi>Hammond</hi>
+               <note n="†" place="margin">
+                  <hi>Of Schiſm p.</hi> 23, 24, 25.</note> tells you. <hi>That he that doth not com<g ref="char:EOLhyphen"/>municate with thoſe</hi> [I ſuppoſe he means Superiors] <hi>the condition of whoſe Communion contains nothing really erroneous or ſinful, though the doctrin ſo propoſed as the condition of their Communion, be ap<g ref="char:EOLhyphen"/>prehended by him, to whom it is thus propoſed, to be falſe, remains in Schiſm.</hi>
+            </p>
+            <p>
+               <pb n="36" facs="tcp:63884:20"/>
+               <hi>Soc.</hi> And at this rate, all thoſe, who ſeparate from the Church, requiring their aſſent to what is indeed a truth, will be Schiſmaticks, (and that, whether in a point Fundamental, or not Fundamental,) though they have uſed all the induſtry, all the means they can (except this, the relying on their Supe<g ref="char:EOLhyphen"/>riors judgment) not to err; unleſs you will ſay, that all truths, even not Fundamental, are in Scripture ſo clear, that none uſing a right induſtry, can (neither) err in them; which no <hi>Chillingworth</hi> hath maintained hitherto.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>34</label>
+               <hi>Prot.</hi> But we may let this paſs; for, your ſeparation was in a point perſpicuous enough in Scripture (and ſo you void of ſuch excuſe): was in a point Eſſential and Fundamental, and in which a wrong belief deſtroys any longer Com<g ref="char:EOLhyphen"/>munion of a particular Perſon or Church, with the Ca<g ref="char:EOLhyphen"/>tholick.</p>
+            <p>
+               <hi>Soc.</hi> This I utterly deny; nor ſee I by what way this can ever be proved againſt me, for you can aſſign no Eccleſiaſtical Judge that can diſtinguiſh Fundamentals, Neceſſaries, or Eſ<g ref="char:EOLhyphen"/>ſentials, from thoſe points that are not ſo, as hath been ſhewed already. And as Dr. <hi>Stillingfleet</hi>
+               <note n="‖" place="margin">
+                  <hi>p.</hi> 73.</note> urgeth concerning Hereſie, ſo may I concerning Schiſm:—What are the meaſures whereby we ought to judge, what things are Eſſential to the being of Chriſtianity, or of the Church? Whether muſt the <hi>Church's judgment</hi> be taken, or every <hi>mans own judgment?</hi> if the <hi>former,</hi> the Ground of Schiſm lies ſtill in the Church's defini<g ref="char:EOLhyphen"/>tions, contrary to what Proteſtants affirm: if <hi>the latter;</hi> then no one can be a Schiſmatick, but he, that oppoſeth that of which <hi>he is,</hi> or <hi>may be convinced,</hi> that it is a Fundamental, or eſſential matter of Faith. If he be only a Schiſmatick, that op<g ref="char:EOLhyphen"/>poſeth that, of which <hi>he is convinced;</hi> then no man is a Schiſ<g ref="char:EOLhyphen"/>matick, but he that goes againſt his preſent Judgment; and ſo there will be few Schiſmaticks in the world; If he, that oppo<g ref="char:EOLhyphen"/>ſeth that, which <hi>he may be convinced</hi> of; then again, it is that which <hi>he may be convinced</hi> of, either in the Church's judgment or in his own: If in the Church's, it comes to the ſame iſſue, as in the former: If <hi>in his own;</hi> how I pray, ſhall I know, that I may be convinced of what, uſing a due indeavour, I am not convinced already? or, how ſhall I know, when a due induſtry is uſed? and if I cannot know this, how ſhould I ever ſettle my ſelf unleſs it be upon <hi>Authority,</hi> which you allow not. Again, I am taught, that any particular, whether Perſon or Church,
+<pb n="37" facs="tcp:63884:20"/>may judge for themſelves with the <hi>Judgment</hi> of <hi>Diſcretion:</hi> And in the matter of Chriſtian Communion,—<note n="†" place="margin">Stillingfl. p. <hi>292.</hi>
+               </note> 
+               <hi>That nothing can be more unreaſonable, than that the Society</hi> [ſuppoſe it be a Council] <hi>impoſing conditions of its Communion</hi> [ſuppoſe the Council of <hi>Nice</hi> impoſing Conſubſtantiality ſo] <hi>ſhould be Judge, whether thoſe conditions be juſt and equitable or no: And eſpecially in this caſe, where a conſiderable Body of Chriſtians judge ſuch things required to be unlaw<g ref="char:EOLhyphen"/>ful conditions of Communion, what juſtice or reaſon is there, that the party accuſed ſhould ſit judge in his own cauſe?</hi>
+            </p>
+            <p>
+               <hi>Prot.</hi> By this way no <hi>Separatiſt</hi> can ever be a <hi>Schiſmatick,</hi> if he is conſtituted the judge, whether the reaſon of his ſepara<g ref="char:EOLhyphen"/>tion is juſt.</p>
+            <p>
+               <hi>Soc.</hi> And in the other way, there can never be any juſt cauſe of ſeparation at all, if the Church-Governors, from whom I ſeparate, are to judge, whether that be an error, for which I ſeparate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>35</label>
+               <hi>Prot.</hi> It ſeems ſomething that you ſay: But yet, though up<g ref="char:EOLhyphen"/>on ſuch conſideration, a free uſe of your own <hi>judgment,</hi> as to providing for your own Salvation is granted you; yet, me<g ref="char:EOLhyphen"/>thinks in this matter you have ſome greater cauſe to ſuſpect it, ſince ſeveral Churches, having of late taken liberty to examine by Gods Word more ſtrictly the corrupt doctrins of former ages, yet theſe <hi>reformed,</hi> as well as the other <hi>unreformed,</hi> ſtand oppoſite to you; and neither thoſe profeſſing to follow the Scriptures, nor thoſe profeſſing to follow Tradition, and Church-Authority; neither thoſe requiring ſtrict obedience and ſubmiſſion of judgment, nor thoſe indulging Chriſtian li<g ref="char:EOLhyphen"/>berty, countenance your doctrin. But you ſtand alſo <hi>Refor<g ref="char:EOLhyphen"/>mers</hi> of the <hi>Reformation,</hi> and ſeparated from all.</p>
+            <p>
+               <hi>Soc.</hi> Soft a little. Though I ſtand ſeparated indeed from the preſent unreformed Churches; or alſo (if you will) from the whole Church that was before <hi>Luther;</hi> yet I both enjoy the external Communion, and think I have reaſon to account my ſelf a true member of the Churches Reformed; and, as I ne<g ref="char:EOLhyphen"/>ver condemned them, or thought Salvation not attainable in them; ſo neither am I (that I know of) excluded by, or from them; ſo long as I retain my opinion in ſilence, and do not diſturb their peace; and I take my ſelf alſo on theſe terms to be a member, in particular, of the Church of <hi>England,</hi> wherein I have been educated. For, all theſe Churches (as confeſſing themſelves <hi>fallible</hi> in their decree) do not require of their Sub<g ref="char:EOLhyphen"/>jects
+<pb n="38" facs="tcp:63884:21"/>to yield any <hi>internal aſſent</hi> to their Doctrins; or to pro<g ref="char:EOLhyphen"/>feſs any thing againſt their Conſcience, and in Hypocriſie; and do forbear to uſe that Tyranny upon any for enjoying their Communion, which they ſo much condemn in that Church, from which, for this very thing, they were forced to part Communion, and to reform. Of this matter, thus, Mr. <hi>Whitby</hi>
+               <note n="†" place="margin">
+                  <hi>p.</hi> 102.</note>—<hi>Whom did our Convocation ever damn for not internally re<g ref="char:EOLhyphen"/>ceiving their decrees? Do they not leave every man to the liberty of his judgment?</hi>—<hi>They do not require, that we ſhould in all things believe, as they believe; but that we ſhould ſubmit to their determination, and not contradict them; their deciſions are not obtruded as infallible Oracles, but only ſubmitted to in order to peace and unity</hi>—<hi>So that their work is rather to ſilence, than to determine diſputes,</hi> &amp;c.— <hi>and</hi> p. 438. <hi>We grant a neceſſity, or at leaſt a convenience of a Tribunal to decide controverſies, but how? Not by cauſing any perſon to believe what he did not antecedently to theſe decrees, upon the ſole authority of the Council; but by ſilencing our diſputes, and making us acquieſce in what is pro<g ref="char:EOLhyphen"/>pounded without any publick oppoſition to it, keeping our opinions to our ſelves</hi>—<hi>A liberty of uſing private diſcretion in approving or rejecting any thing as delivered, or not, in Scripture, we think ought to be al<g ref="char:EOLhyphen"/>lowed; for faith cannot be compelled; and by taking away this liberty from men, we ſhould force them to become Hypocrites, and ſo profeſs outwardly what inwardly they disbelieve.</hi>—And ſee Dr. Stilling<g ref="char:EOLhyphen"/>fleets Rational Account, p. 104. where, ſpeaking of the obliga<g ref="char:EOLhyphen"/>tion to the 39. Articles, he ſaith, —<hi>That the Church of</hi> England, <hi>excommunicates ſuch as openly oppoſe her doctrin, ſuppoſing her fallible; the Roman Church excommunicates all, who will not believe whatever ſhe defines to be infallibly true.</hi>—<hi>That the Church of</hi> England <hi>bind<g ref="char:EOLhyphen"/>eth men to peace to her determinations, reſerving to men the liberty of their judgments, on pain of excommunication if they violate that peace. For it is plain on the one ſide, where a Church pretends infallibility, the excommunication is directed againſt the perſons for refuſing to give in<g ref="char:EOLhyphen"/>ternal aſſent to what ſhe defines: But where a Church does not pretend to that, the excommunication reſpects wholly that overt Act, whereby the Church's peace is broken. And if a Church be bound to look to her own peace, no doubt ſhe hath power to excommunicate ſuch as openly violate the bonds of it; which is only an act of caution in a Church to preſerve her ſelf in unity; but where it is given out, that the Church is infallible, the excommunication muſt be ſo much the more unreaſonable, becauſe it is againſt thoſe internal acts of the mind, over which the Church as ſuch hath no direct power.</hi>—And p. 55. he quotes theſe words
+<pb n="39" facs="tcp:63884:21"/>out of Biſhop <hi>Bramhall</hi>
+               <note n="†" place="margin">Schiſm guarded, p. <hi>192.</hi>
+               </note> to the ſame ſenſe,—<hi>We do not ſuffer any man to reject the</hi> 39 <hi>Articles of the Church of</hi> England <hi>at his pleaſure; yet neither do we look upon them as eſſentials of ſaving faith, or legacies of Chriſt, and his Apoſtles; but, in a mean, as pious opinions fitted for the preſervation of unity; neither do we oblige any man to believe them, but only not to contradict them. By which we ſee what vaſt difference there is, between thoſe things which are required by the Church of</hi> Eng<g ref="char:EOLhyphen"/>land <hi>in order to peace, and thoſe which are impoſed by the Church of</hi> Rome, <hi>&amp;c.</hi> Laſtly, thus Mr. <hi>Chillingworth</hi>
+               <note n="†" place="margin">
+                  <hi>p.</hi> 200.</note> of the juſt au<g ref="char:EOLhyphen"/>thority of Councils and Synods (beyond which the Proteſtant Synods, or Convocations pretend not.)—<hi>The Fathers of the Church</hi> (ſaith he) <hi>in after times</hi> [<hi>i. e.</hi> after the Apoſtles] <hi>might have juſt cauſe to declare their judgment, touching the ſenſe of ſome ge<g ref="char:EOLhyphen"/>neral Articles of the Creed: but to oblige others to receive their decla<g ref="char:EOLhyphen"/>rations under pain of damnation, what warrant they had, I know not: He, that can ſhew, either that the Church of all ages was to have this Authority; or, that it continued in the Church for ſome ages, and then expired: He, that can ſhew either of theſe things let him; for my part I cannot. Yet I willingly confeſs the judgment of a Council, though not infallible, is yet ſo far directive, and obliging, that</hi> (without ap<g ref="char:EOLhyphen"/>parent reaſon to the contrary) <hi>it may be ſin to reject it, at leaſt not to afford it an outward ſubmiſſion for publick peace ſake.</hi> [Thus much, as the Proteſtant Synods ſeem contented with, ſo I allow]— Again p. 375. He ſaith—<hi>Any thing beſides Scripture, and the plain, irrefragable, indubitable conſequences of it, Well may Prote<g ref="char:EOLhyphen"/>ſtants hold it as matter of opinion; but as matter of faith and reli<g ref="char:EOLhyphen"/>gion, neither can they with coherence to their own grounds believe it themſelves, nor require the belief of it of others, without moſt high and moſt ſchiſmatical preſumption.</hi> Thus he: now I ſuppoſe that ei<g ref="char:EOLhyphen"/>ther no Proteſtant Church or Synod will ſtile the Son's coequal God-head with the Father a plain irrefragable, indubitable Scripture, or conſequence thereof, about which is, and hath been ſo much conteſt; or with as much reaſon, they may call whatever points they pleaſe ſuch, however controverted, and then, what is ſaid here ſignifies nothing.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>36</label>
+               <hi>Prot.</hi> Be not miſtaken, I pray: eſpecially concerning the Church of <hi>England.</hi> For though ſhe, for ſeveral Points, impo<g ref="char:EOLhyphen"/>ſed formerly by the Tyranny of the <hi>Roman</hi> Church, hath grant<g ref="char:EOLhyphen"/>ed liberty of Opinion, or at leaſt freed her Subjects from obliga<g ref="char:EOLhyphen"/>tion to believe ſo in them, as the Church formerly required; yet as to excluſion of your Doctrin, ſhe profeſſeth firmly to
+<pb n="40" facs="tcp:63884:22"/>believe the three Creeds; and concerning the Additions made in the two latter Creeds to the firſt, Dr. <hi>Hammond</hi>
+               <note n="†" place="margin">Of <hi>Funda<g ref="char:EOLhyphen"/>mentals.</hi> p. 90:</note> acknow<g ref="char:EOLhyphen"/>ledgeth, —<hi>That they being thus ſettled by the Univerſal Church, were, and ſtill are in all reaſon, without diſputing, to be received and embraced by the Proteſtant Church, and every meek Member thereof, with that reverence that is due to Apoſtolick Truths; with that thank<g ref="char:EOLhyphen"/>fulneſs which is our meet tribute to thoſe ſacred Champions, for their ſea<g ref="char:EOLhyphen"/>ſonable, and provident propugning our faith, with ſuch timely and ne<g ref="char:EOLhyphen"/>ceſſary application to practice, that the Holy Ghoſt, ſpeaking to us now, under the times of the New Teſtament by the Governors of the Chriſtian Churches, (Chriſts mediate ſucceſſors in the Prophetick, Paſtoral, Epiſ<g ref="char:EOLhyphen"/>copal Office) as he had formerly ſpoken by the Prophets of the Old Teſta<g ref="char:EOLhyphen"/>ment, ſent immediately by him, may find a cheerful audience, and re<g ref="char:EOLhyphen"/>ceive all uniform ſubmiſſion from us.</hi> Thus, Dr. <hi>Hammond</hi> of the Church of <hi>England's</hi> aſſent to the three Creeds. She aſſenteth alſo to the definitions of the four firſt General Councils: And the Act 1 <hi>Eliz.</hi>
+               <note n="‖" place="margin">
+                  <hi>cap.</hi> 1.</note> declares Hereſie that, which hath been adjudged ſo by them; now in the definitions of theſe 4 firſt General Coun<g ref="char:EOLhyphen"/>cils your enent hath received a mortal wound. But laſtly, <hi>the</hi> 4th Canon in the Engliſh Synod held 1640.<note n="†" place="margin">
+                  <hi>Can.</hi> 4.</note> particularly ſtiles <hi>Socinianiſm a moſt damnable and curſed Hereſie, and contrary to the Articles of Religion eſtabliſhed in the Church of</hi> England: <hi>and orders that any, convicted of it, be excommunicated and not abſolved, but upon his repentance and abjuration.</hi> Now further than this <hi>[name<g ref="char:EOLhyphen"/>ly, excommunication upon conviction.]</hi> No other Church I ſup<g ref="char:EOLhyphen"/>poſe hath, or can proceed againſt your Hereſie; It being re<g ref="char:EOLhyphen"/>ceived as a common Axiom in the Canon Law; that <hi>Eccleſia non judicat de occultis,</hi>—And—<hi>Cogitationis poenam nemo patitur.</hi>—And—<hi>Ob peccatum merè internum Eccleſiaſtica cenſura ferri non poteſt.</hi> And in all Churches every one, of what internal perſwaſion ſoever, continues externally at leaſt a member thereof, till the Church's cenſures do ex<g ref="char:EOLhyphen"/>clude him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>37</label>
+               <hi>Soc.</hi> The Church of <hi>England</hi> alloweth, aſſenteth to, and teacheth, what ſhe judgeth evident in the Scripture; for ſo ſhe ought; what ſhe believes, or aſſenteth to, I look not after, but what ſhe enjoyns. Now I yield all that obedience in this point, that ſhe requires from me; and ſo I preſume ſhe will acknow<g ref="char:EOLhyphen"/>ledge me a dutiful Son.</p>
+            <p>
+               <pb n="41" facs="tcp:63884:22"/>
+               <hi>Prot.</hi> What obedience when as you deny one of her chiefeſt, and moſt fundamental doctrins?</p>
+            <p>
+               <hi>Soc.</hi> If I miſtake not her principles, ſhe requires of me no internal belief or aſſent to any of her doctrins, but only, 1ſt. <hi>Silence,</hi> or <hi>non-contradiction</hi> † or 2ly, a <hi>conditional belief, i. e.</hi> whenever I ſhall be convinced of the truth thereof. Now in both theſe I moſt readily obey her. For the 1ſt, I have ſtrictly ob<g ref="char:EOLhyphen"/>ſerved it, kept my opinion to my ſelf; unleſs this my diſ<g ref="char:EOLhyphen"/>courſe with you hath been a breach of it; but then I was at leaſt a dutiful ſubject of this Church at the beginning of our diſcourſe; and for the 2d, whether <hi>actual conviction,</hi> or <hi>ſuffi<g ref="char:EOLhyphen"/>cient propoſal,</hi> be made the condition of my aſſent, or ſubmiſ<g ref="char:EOLhyphen"/>ſion of judgment, I am conſcious to my ſelf of no diſobedience, as to either of theſe; for an <hi>actual conviction</hi> I am ſure I have not: and, ſuppoſing, that I have had a <hi>ſufficient propoſal,</hi> and do not know it, my obedience, upon the Proteſtant principles, can poſſibly advance no further, than it now doth. The <hi>Apo<g ref="char:EOLhyphen"/>ſtles Creed</hi> I totally embrace, and would have it the ſtanding bound of a Chriſtian Faith. For other <hi>Creeds:</hi> I ſuppoſe, no more belief is neceſſary to the Articles of the <hi>Nicene Creed,</hi> than is required to thoſe of the <hi>Athanaſian.</hi> And, of what kind the neceſſity is of believing thoſe, Dr. <hi>Stillingfleet</hi> ſtates on this manner<note n="†" place="margin">
+                  <hi>p.</hi> 70, 71.</note>—<hi>That the belief of a thing may be ſuppoſed neceſſary, either as to the matter, becauſe the matter is to be believed in it ſelf ne<g ref="char:EOLhyphen"/>ceſſary; or becauſe of the clear conviction of mens underſtandings; that, though the matters be not in themſelves neceſſary, yet being reveal<g ref="char:EOLhyphen"/>ed by God, they muſt be explicitly believed: but then, the neceſſity of this belief doth extend no further, than the clearneſs of the conviction doth.</hi> Again, <hi>that the neceſſity of believing any thing ariſing from the Church's definition</hi> [upon which motive you ſeem to preſs the belief of the Article of <hi>Conſubſtantiality] doth depend upon the Con<g ref="char:EOLhyphen"/>viction, that whatever the Church defines is neceſſary to be believed. And, where that is not received as an antecedent principle, the other cannot be ſuppoſed.</hi> [Now this principle neither I, nor yet Pro<g ref="char:EOLhyphen"/>teſtants, accept]. Then he concludes—<hi>That as to the Athena<g ref="char:EOLhyphen"/>ſian Creed</hi> [and the ſame it is for the <hi>Nicene.</hi>] <hi>It is unreaſonable to imagine, that the Church of</hi> England <hi>doth own this neceſſity, purely on the account of the Church's d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>finition of thoſe things which are not fundamental, it being directly contrary to her ſenſe in her</hi> 19th <hi>and</hi> 20th <hi>Articles.</hi> [Now, which Articles of this Creed are not Fundamental, ſhe defines nothing; nor do the 19, 20, or 21.
+<pb n="42" facs="tcp:63884:23"/>Articles own a neceſſity of believing the Church's Definitions, even as to <hi>Fundamentals.</hi>] <hi>And hence, that the ſuppoſed neceſſity of the belief of the Articles of the Athanaſian Creed muſt, according to the ſenſe of the Church of</hi> England, <hi>be reſolved, either into the neceſſity of the matters, or into that neceſſity, which ſuppoſeth clear conviction, that the things therein contained are of divine Revelation.</hi> Thus he. Now, for ſo many Articles as I am either convinced of the matter to be believed, that it is in it ſelf neceſſary; or, that they are divine Revelations, I do moſt readily yield my Faith, and aſſent thereto. Now, to make ſome Reply to the other things you have objected.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§ </seg>38</label> The Act 1 <hi>Eliz.</hi> allows no Definitions of the Firſt General Councils in declaring <hi>Hereſie,</hi> but with this limitation, that, in ſuch Councils, ſuch thing be declared <hi>Hereſie</hi> by the expreſs and plain words of the <hi>Canonical Scripture.</hi> On which terms I alſo accept them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>39</label> Dr. <hi>Hammond</hi>'s affirming, <hi>That all additions ſettled by the Uni<g ref="char:EOLhyphen"/>verſal Church</hi> [he means General Councils] <hi>are in all reaſon, with<g ref="char:EOLhyphen"/>out diſputing, to be received as Apoſtolical Truths, that the Holy Ghoſt ſpeaking to us by the Governors of the Chriſtian Churches, Chriſt's Succeſſors, may receive all uniform ſubmiſſion from us,</hi> ſuits not with the Proteſtant Principles often formerly mentioned. † for thus (if I rightly underſtand him) all the definitions of General Coun<g ref="char:EOLhyphen"/>cils,<note place="margin">See before §. <hi>26.</hi>
+               </note> and of the Chriſtian Governors in all ages, as theſe being ſtill Chriſt's Succeſſors, are to be without diſputing, embraced as truths Apoſtolical.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>40</label> If the words of the fourth <hi>Canon</hi> of the <hi>Engliſh Synod</hi> 1640. ſignifie any more, than this; That any perſon <hi>convicted</hi> of Soci<g ref="char:EOLhyphen"/>nianiſm (<hi>i. e.</hi> by publiſhing his opinion) ſhall, upon ſuch con<g ref="char:EOLhyphen"/>viction, be excommunicated; and if it be underſtood adequate to this, <hi>Qui non crediderit filium eſſe</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Deo Patri, Anathema ſit,</hi> and, that the Church of <hi>England,</hi> for allowing her Com<g ref="char:EOLhyphen"/>munion, is not content with <hi>ſilence</hi> in reſpect of Socinianiſm, but obligeth men alſo to <hi>aſſent</hi> to the contrary; then, I ſee not upon what good grounds ſuch exclamation is made againſt the like Anathema's or exactions of aſſent required by that of <hi>Trent,</hi> or other late Councils, or by <hi>Pius</hi> his Bull. If it be ſaid here, the reaſon of ſuch faulting them is, becauſe theſe require aſſent, not being lawful <hi>General Councils,</hi> ſuch reaſon will not paſs; 1ſt. Becauſe, neither the Engliſh Synod, exacting aſſent in this point, is a General Council. 2ly. Becauſe, it is the Proteſtant
+<pb n="43" facs="tcp:63884:23"/>tenent, that neither may lawful General Councils require <hi>aſſent</hi> to all their Definitions. Or, if it be affirmed (either of <hi>General</hi> or <hi>Provincial</hi> Councils) that they may require aſ<g ref="char:EOLhyphen"/>ſent under Anathema to ſome of their decrees; <hi>viz.</hi> Thoſe evidently true, and divine Revelations; ſuch as <hi>Conſubſtanti<g ref="char:EOLhyphen"/>ality</hi> is; but may not to others; <hi>viz.</hi> Thoſe not manifeſted by them to be ſuch; then, before we can cenſure any Coun<g ref="char:EOLhyphen"/>cil for its Anathema's, or its requiring of aſſent, we muſt know, whether the point, to which aſſent is required, is, or is not, evident divine Revelation. And then, by whom, or how, ſhall this thing touching the evidence of the Divine Re<g ref="char:EOLhyphen"/>velation be judged or decided? for thoſe that judge this, whoever they be, do ſit now upon the trial of the rightneſs, or miſtake of the judgment of a General Council: Or when, think we, will thoſe who judge this (<hi>i. e.</hi> every perſon for him<g ref="char:EOLhyphen"/>ſelf) agree in their ſentence? Again, If on the other ſide, the <hi>former Church</hi> in her language, <hi>Si quis non crediderit, &amp;c. Anathe<g ref="char:EOLhyphen"/>ma ſit,</hi> be affirmed (to which purpoſe the fore-mentioned Axi<g ref="char:EOLhyphen"/>oms are urged by you) to mean nothing more, than, <hi>Si quis Haereſin ſuam palam profiteatur, &amp; hujus profeſſionis convictus fu<g ref="char:EOLhyphen"/>erit, Anathema ſit,</hi> Thus the Proteſtants former quarrel with her paſſing ſuch <hi>Anathema's</hi> will be concluded cauſeleſs and unjuſt. But indeed, though, (according to the former ſen<g ref="char:EOLhyphen"/>tences,) her Anathema is not extended to the internal act of holding ſuch an opinion, if wholly concealed, ſo far as to render ſuch perſon for it to ſtand <hi>excommunicated,</hi> and lie actu<g ref="char:EOLhyphen"/>ally under this cenſure of the Church, becauſe hitherto no contempt of her authority appears, nor is any dammage inferred to any other member of her Society thereby? Yet her <hi>Anathema</hi> alſo extends, even to the internal act, or te<g ref="char:EOLhyphen"/>net, after the Church's contrary definition known (which tenet alſo then is not held without a diſobedience, and con<g ref="char:EOLhyphen"/>tempt of her authority) ſo far, as to render the delinquent therein guilty of a very great <hi>mortal ſin;</hi> and ſo at the ſame time internally cut off from being a true member of <hi>Chriſt's Body;</hi> though externally he is not as yet ſo cut off. And the Caſuiſts further ſtate him <hi>ipſo facto</hi> to be excommunicated, before, and without conviction, if externally he doth, or ſpeaketh any thing, whereby he is convincible; and not if there be any thing <hi>proved</hi> againſt him, but if any thing at leaſt <hi>provable;</hi> and ſuch a one, upon this, to be obliged in
+<pb n="44" facs="tcp:63884:24"/>Conſcience, not only to confeſs his heretical opinion, for his being abſolved from <hi>mortal ſin;</hi> but alſo to ſeek a releaſe from excommunication incurred, for his re-enjoying the Church's Communion. Thus you ſee a rigor in this Church towards what it once accounted <hi>Hereſie</hi> much dif<g ref="char:EOLhyphen"/>ferent from the more mild Spirit, and moderate temper of the <hi>Reformed.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">§. </seg>41</label> To conclude. For the enjoying the <hi>Proteſtant</hi> Communi<g ref="char:EOLhyphen"/>on, I conceive that, as to any neceſſary approbation of her Doctrins, it is ſufficient for me to hold with Mr. <hi>Chillingworth</hi> (as I do<note n="†" place="margin">Chillingw. Pref. §. <hi>39.</hi>
+               </note>)—<hi>That the Doctrin of Proteſtants, though not that, of all of them, abſolutely true, yet it is free from all impiety, and from all Error deſtructive to Salvation, or in it ſelf damnable.</hi> And<note n="†" place="margin">
+                  <hi>Ib.</hi> §. 28.</note>—<hi>whatſoever hath been held neceſſary Salvation by the conſent of Proteſtants, or even of the Church of</hi> England, [which indeed hath given no certain Catalogue at all of ſuch <hi>neceſſaries], that, againſt the Socinians, and all others whatſoever, I do verily believe, and embrace</hi>—And (which is ſtill the ſame)<note n="†" place="margin">
+                  <hi>Ib.</hi> §. 29.</note>— <hi>I am perſwaded, that the conſtant doctrin of the Church of</hi> England, <hi>is ſo pure and Orthodox, that whoſoever believes it, and lives ac<g ref="char:EOLhyphen"/>cording to it, undoubtedly he ſhall be ſaved.</hi> [For if all truths ne<g ref="char:EOLhyphen"/>ceſſary to Salvation be held in it, then, ſo, is no error, oppoſite or deſtructive to Salvation, held by it; and ſo, living accor<g ref="char:EOLhyphen"/>ding to the truths it holds, I may be ſaved.] Again<note n="†" place="margin">Ibid.</note> — <hi>I believe that there is no error in it, which may neceſſitate, or warrant any man to diſturb the peace, or renounce the Communion of it,</hi> [For, though I believe <hi>Antiſocinianiſm,</hi> an error; Yet if I hold it not ſuch, as that for it any man may diſturb the peace, or ought to renounce the Communion of the Church, I may profeſs all this, and yet hold Socinianiſm.] Laſtly as he,<note n="‖" place="margin">Chillingw. p. <hi>376.</hi>
+               </note> ſo I;— <hi>Propoſe me any thing out of the Bible, ſeem it never ſo incomprehenſible, I will ſubſcribe it with hand and heart. In other things</hi> [that I think not contained in this Book] <hi>I will take no mans liberty of judg<g ref="char:EOLhyphen"/>ment from him, neither ſhall any man take mine from me; for I am fully aſſured, that God doth not, and therefore that men ought not to require any more of any man than this; To believe the Scripture to be Gods Word, to endeavour to find the true ſenſe of it; and to live according to it. Without pertinacy I can be no Heretick; And</hi>
+               <note n="†" place="margin">
+                  <hi>Ib.</hi> §. 57.</note>, <hi>endeavouring to find the true ſenſe of Scripture, I cannot but hold my error without pertinacy, and be ready to forſake it, when a more
+<pb n="45" facs="tcp:63884:24"/>true, and a more probable ſenſe ſhall appear unto me.</hi>—<hi>And then, all neceſſary truth being plainly ſet down in Scripture, I am certain by believing Scripture to believe all neceſſary truth; and in doing ſo, my life being anſwerable to my Faith, how is it poſſible I ſhould fail of Salvation?</hi> Thus Mr. <hi>Chillingworth</hi> ſpeaks perfectly my ſenſe.</p>
+            <p>
+               <hi>Prot.</hi> I ſee no other cure for you; but that you learn <hi>hu<g ref="char:EOLhyphen"/>mility</hi> and <hi>mortification</hi> of your <hi>Underſtanding</hi> (in which lies the moſt ſubtle and perilous of all <hi>Prides</hi>): And, It will reduce you to <hi>Obedience:</hi> and this to <hi>Truth.</hi> Tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, with all the Church of God, you may give glory to <hi>God the only begotten Son,</hi> and <hi>the Holy Ghoſt, coeſſential with God the Father.</hi> To which <hi>Trinity</hi> in <hi>Unity,</hi> as it hath been from the beginning, and is now, ſo ſhall all Honour and Glory be given throughout all fu<g ref="char:EOLhyphen"/>ture ages. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 19. lin. 18. read <hi>Emperor.</hi> p. 28. l. 1. dele [<hi>See more Proteſtants cited to this purpoſe, Diſc.</hi> 3. §. 19.] pag. 31. l. 7. r. <hi>there by.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
